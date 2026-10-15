@@ -1,0 +1,100 @@
+[
+  {
+    "placement_id": "e6ff3022-795f-5683-befe-d22f8dd2ec16",
+    "college_id": "aaf3095e-e6cb-5314-84b6-e1606b9254f8",
+    "academic_year": "2023-2024",
+    "eligible_students": 680,
+    "placed_students": 564,
+    "placement_percentage": 82.94,
+    "average_package_lpa": 4.85,
+    "median_package_lpa": 4.2,
+    "highest_package_lpa": 16.5,
+    "top_recruiters": [
+      "Tata Consultancy Services (TCS)",
+      "Infosys",
+      "Cognizant",
+      "Capgemini",
+      "Persistent Systems",
+      "Tech Mahindra",
+      "Raymond Limited",
+      "Aditya Birla Group (Grasim / Linen Club)",
+      "Welspun India",
+      "Vardhman Textiles",
+      "L&T Technology Services",
+      "KPIT Technologies",
+      "Tata Motors",
+      "Cummins India"
+    ],
+    "sector_breakup": {
+      "information_technology_and_services": "58%",
+      "textile_and_apparel_manufacturing": "26%",
+      "core_engineering_and_automotive": "16%"
+    },
+    "official_report_url": "https://www.dkte.ac.in/training-and-placement.php",
+    "source_id": "de389dbe-f4e9-5c5d-9458-ffe0e598b158",
+    "last_verified": "2024-08-15",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "placement_id": "b7ba196c-ac59-55f8-8e84-b6347dc51edd",
+    "college_id": "aaf3095e-e6cb-5314-84b6-e1606b9254f8",
+    "academic_year": "2022-2023",
+    "eligible_students": 650,
+    "placed_students": 558,
+    "placement_percentage": 85.84,
+    "average_package_lpa": 4.6,
+    "median_package_lpa": 4.0,
+    "highest_package_lpa": 15.0,
+    "top_recruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "Cognizant",
+      "Accenture",
+      "Arvind Mills",
+      "Trident Group",
+      "Himatsingka",
+      "Bharat Forge",
+      "Thermax"
+    ],
+    "sector_breakup": {
+      "information_technology_and_services": "62%",
+      "textile_and_apparel_manufacturing": "24%",
+      "core_engineering_and_automotive": "14%"
+    },
+    "official_report_url": "https://www.dkte.ac.in/training-and-placement.php",
+    "source_id": "de389dbe-f4e9-5c5d-9458-ffe0e598b158",
+    "last_verified": "2024-08-15",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "placement_id": "33902d34-8128-55f9-b4ef-f02485288511",
+    "college_id": "aaf3095e-e6cb-5314-84b6-e1606b9254f8",
+    "academic_year": "2021-2022",
+    "eligible_students": 620,
+    "placed_students": 535,
+    "placement_percentage": 86.29,
+    "average_package_lpa": 4.25,
+    "median_package_lpa": 3.8,
+    "highest_package_lpa": 14.5,
+    "top_recruiters": [
+      "TCS",
+      "Infosys",
+      "Hexaware",
+      "Capgemini",
+      "Welspun",
+      "Raymond",
+      "Sutlej Textiles",
+      "Bosch"
+    ],
+    "sector_breakup": {
+      "information_technology_and_services": "60%",
+      "textile_and_apparel_manufacturing": "25%",
+      "core_engineering_and_automotive": "15%"
+    },
+    "official_report_url": "https://www.dkte.ac.in/training-and-placement.php",
+    "source_id": "de389dbe-f4e9-5c5d-9458-ffe0e598b158",
+    "last_verified": "2024-08-15",
+    "verification_status": "VERIFIED"
+  }
+]

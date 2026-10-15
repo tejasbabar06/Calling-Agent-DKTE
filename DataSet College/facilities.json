@@ -1,0 +1,228 @@
+[
+  {
+    "facility_id": "d2e18301-a913-5d37-86be-16fd79c76771",
+    "college_id": "aaf3095e-e6cb-5314-84b6-e1606b9254f8",
+    "category": "Accommodation",
+    "name": "DKTE Boys Hostel",
+    "availability_status": "Available",
+    "capacity_students": 50,
+    "total_rooms": 20,
+    "room_types": [
+      "Twin Sharing (2 Beds)",
+      "Triple Sharing (3 Beds)"
+    ],
+    "amenities": [
+      "Individual steel bed, study table, chair, and built-in wardrobe per student",
+      "24x7 treated water supply and solar water heating systems",
+      "High-speed Wi-Fi internet connectivity",
+      "24x7 security personnel with CCTV surveillance across all corridors and entry gates",
+      "Water coolers with multi-stage RO purification",
+      "Common recreation hall with newspaper stands and LED television"
+    ],
+    "applicable_fee_annual": 25000,
+    "refundable_deposit": 2000,
+    "location": "Within 1 km radius of main Rajwada campus, Ichalkaranji",
+    "curfew_time": "9:30 PM",
+    "source_id": "4d96d750-a812-5711-959d-05de1cec8e76",
+    "source_url": "https://www.dkte.ac.in/hostel.php",
+    "last_verified": "2024-08-15",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "facility_id": "dd966e06-3467-52aa-8128-c9b40f5f63eb",
+    "college_id": "aaf3095e-e6cb-5314-84b6-e1606b9254f8",
+    "category": "Accommodation",
+    "name": "DKTE Girls Hostel",
+    "availability_status": "Available",
+    "capacity_students": 324,
+    "total_rooms": 90,
+    "room_types": [
+      "Triple Sharing (3 Beds)",
+      "Four Sharing (4 Beds) with attached/common bath"
+    ],
+    "amenities": [
+      "Well-furnished rooms with study tables, chairs, bookshelves and private wardrobes",
+      "24x7 gated security with round-the-clock female wardens and biometric turnstile access",
+      "100 Mbps dedicated campus Wi-Fi network",
+      "Solar water heating on all blocks",
+      "In-house mess and dining hall serving hygienic vegetarian meals",
+      "Dedicated study reading rooms and emergency first-aid clinic with visiting lady doctor",
+      "CCTV surveillance covering perimeter and common halls"
+    ],
+    "applicable_fee_annual": 25000,
+    "refundable_deposit": 2000,
+    "location": "Close to college campus with secure transit boundary, Ichalkaranji",
+    "curfew_time": "8:00 PM (Strict safety protocol)",
+    "source_id": "4d96d750-a812-5711-959d-05de1cec8e76",
+    "source_url": "https://www.dkte.ac.in/hostel.php",
+    "last_verified": "2024-08-15",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "facility_id": "e8580160-67e0-5e8c-be11-cde42f6ab48c",
+    "college_id": "aaf3095e-e6cb-5314-84b6-e1606b9254f8",
+    "category": "Dining & Food",
+    "name": "DKTE Student Mess & Cafeteria",
+    "availability_status": "Available",
+    "capacity_students": 500,
+    "total_rooms": null,
+    "room_types": null,
+    "amenities": [
+      "Hygienic pure-vegetarian breakfast, lunch, evening tea/snacks, and dinner",
+      "Nutritious Maharashtrian, South Indian, and North Indian meal options",
+      "Monthly feast and special holiday menus",
+      "FSSAI certified commercial kitchen with stainless steel steam cooking equipment"
+    ],
+    "applicable_fee_annual": 33000,
+    "refundable_deposit": null,
+    "location": "Adjacent to Boys and Girls Hostel premises & Main Campus Cafeteria",
+    "curfew_time": null,
+    "source_id": "4d96d750-a812-5711-959d-05de1cec8e76",
+    "source_url": "https://www.dkte.ac.in/hostel.php",
+    "last_verified": "2024-08-15",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "facility_id": "84f7d331-5418-532c-abaa-b524a23f9066",
+    "college_id": "aaf3095e-e6cb-5314-84b6-e1606b9254f8",
+    "category": "Academic Resources",
+    "name": "Dr. K. B. Powar Central Knowledge Centre & Library",
+    "availability_status": "Available",
+    "capacity_students": 350,
+    "total_rooms": 4,
+    "room_types": [
+      "Digital Library Lab",
+      "Stack Section",
+      "Quiet Reading Hall",
+      "Periodicals Section"
+    ],
+    "amenities": [
+      "Over 65,000+ volumes of engineering, textile technology, management, and basic science books",
+      "Subscriptions to IEEE Xplore, ScienceDirect, Springer, Delnet, and ASTM digital e-journal databases",
+      "24x7 air-conditioned reading halls during end-semester examinations",
+      "Automated book issuing via SLIM21 software and barcode scanners",
+      "Book Bank facility offering complete semester textbooks to economically weaker and reserved students"
+    ],
+    "applicable_fee_annual": 0,
+    "refundable_deposit": 500,
+    "location": "Main Administrative & Academic Wing, Rajwada Campus",
+    "curfew_time": "Open 8:00 AM to 10:00 PM (24 Hours during Exam weeks)",
+    "source_id": "82e445d7-9ab5-55d5-bbd8-365b3affa345",
+    "source_url": "https://www.dkte.ac.in/",
+    "last_verified": "2024-08-15",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "facility_id": "7e98a793-31c8-59a6-a986-143406626a03",
+    "college_id": "aaf3095e-e6cb-5314-84b6-e1606b9254f8",
+    "category": "Research & Industry Excellence",
+    "name": "Centre of Excellence in Technical Textiles (CoE)",
+    "availability_status": "Available",
+    "capacity_students": 150,
+    "total_rooms": 12,
+    "room_types": [
+      "Testing Labs",
+      "Pilot Plants",
+      "Incubation Center"
+    ],
+    "amenities": [
+      "Sanctioned by Ministry of Textiles, Govt. of India with state-of-the-art pilot scale industrial machinery",
+      "NABL accredited textile physical, chemical and microbiological testing laboratories",
+      "High-speed spinning, weaving, non-woven fabric line, and coating/lamination pilot machines",
+      "Consultancy and commercial testing services for global textile manufacturers",
+      "Direct student hands-on project work and pre-placement industrial training"
+    ],
+    "applicable_fee_annual": 0,
+    "refundable_deposit": null,
+    "location": "Secondary Campus / Centre of Excellence Complex, Ichalkaranji",
+    "curfew_time": "9:00 AM to 6:00 PM",
+    "source_id": "82e445d7-9ab5-55d5-bbd8-365b3affa345",
+    "source_url": "https://www.dkte.ac.in/",
+    "last_verified": "2024-08-15",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "facility_id": "7dc864ff-698b-5cc4-9a32-9c7b5fa76051",
+    "college_id": "aaf3095e-e6cb-5314-84b6-e1606b9254f8",
+    "category": "IT & Infrastructure",
+    "name": "Central Computing & High-Speed Network Facility",
+    "availability_status": "Available",
+    "capacity_students": 600,
+    "total_rooms": 8,
+    "room_types": [
+      "Specialized AI/ML Lab",
+      "Cloud Computing Lab",
+      "Language & Aptitude Lab"
+    ],
+    "amenities": [
+      "Over 1,200 modern computer terminals with latest Intel Core i7 / Xeon processors",
+      "1 Gbps dedicated redundant optical fiber internet leased lines across campus",
+      "Campus-wide secure Wi-Fi coverage for registered student laptops",
+      "Licensed software including MATLAB, AutoCAD, ANSYS, SolidWorks, Cadence, and Textile CAD suites",
+      "Central cloud servers hosting DKTE ERP student portal and online examination servers"
+    ],
+    "applicable_fee_annual": 0,
+    "refundable_deposit": null,
+    "location": "IT & Computer Engineering Block",
+    "curfew_time": "8:30 AM to 8:30 PM",
+    "source_id": "82e445d7-9ab5-55d5-bbd8-365b3affa345",
+    "source_url": "https://www.dkte.ac.in/",
+    "last_verified": "2024-08-15",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "facility_id": "78346108-272a-5e14-98a7-7704a19e9257",
+    "college_id": "aaf3095e-e6cb-5314-84b6-e1606b9254f8",
+    "category": "Sports & Recreation",
+    "name": "Sports Complex & Modern Gymnasium",
+    "availability_status": "Available",
+    "capacity_students": 250,
+    "total_rooms": 3,
+    "room_types": [
+      "Gymnasium",
+      "Indoor Sports Arena",
+      "Outdoor Grounds"
+    ],
+    "amenities": [
+      "Full-fledged modern fitness gym with cardio machines, free weights, and dedicated trainer",
+      "Indoor badminton courts, table tennis tables, carrom and chess rooms",
+      "Outdoor grounds for cricket, football, volleyball, and basketball with floodlights",
+      "Annual inter-collegiate sports championship participation and Shivaji University zonal tournaments"
+    ],
+    "applicable_fee_annual": 0,
+    "refundable_deposit": null,
+    "location": "Campus Sports Ground & Student Activity Centre",
+    "curfew_time": "6:00 AM to 8:30 AM & 4:30 PM to 8:00 PM",
+    "source_id": "82e445d7-9ab5-55d5-bbd8-365b3affa345",
+    "source_url": "https://www.dkte.ac.in/",
+    "last_verified": "2024-08-15",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "facility_id": "9f9239dc-746a-56e2-800e-162b65908d4f",
+    "college_id": "aaf3095e-e6cb-5314-84b6-e1606b9254f8",
+    "category": "Health & Safety",
+    "name": "Campus Health Clinic & First Aid Centre",
+    "availability_status": "Available",
+    "capacity_students": 20,
+    "total_rooms": 2,
+    "room_types": [
+      "Consultation Room",
+      "Observation Ward"
+    ],
+    "amenities": [
+      "Resident medical nurse and daily visiting qualified medical doctor",
+      "Emergency first-aid medical supplies, oxygen support and wheelchair accessibility",
+      "Tie-up with multi-specialty hospitals in Ichalkaranji for rapid ambulance and inpatient emergency care",
+      "Group accidental medical insurance policy provided to all admitted students"
+    ],
+    "applicable_fee_annual": 0,
+    "refundable_deposit": null,
+    "location": "Ground Floor, Health Centre adjacent to Hostel entry",
+    "curfew_time": "24x7 on-call medical assistance",
+    "source_id": "82e445d7-9ab5-55d5-bbd8-365b3affa345",
+    "source_url": "https://www.dkte.ac.in/",
+    "last_verified": "2024-08-15",
+    "verification_status": "VERIFIED"
+  }
+]

@@ -1,0 +1,1660 @@
+[
+  {
+    "fee_id": "6023d6ae-ae89-5e1f-ab13-f492876f3501",
+    "course_id": "166a78f1-3dc3-5a64-8ec0-395334b0148d",
+    "academic_year": "2024-2025",
+    "tuition_fees": 105217,
+    "development_fees": 15783,
+    "examination_fees": 3000,
+    "other_annual_fees": 1000,
+    "caution_money_deposit_one_time": 1000,
+    "total_annual_fee_open": 125000,
+    "total_programme_cost_open": 501000,
+    "hostel_fees_annual": 25000,
+    "mess_charges_annual": 33000,
+    "category_wise_fees": {
+      "open_general": {
+        "tuition_fee": 105217,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 125000,
+        "concession_percentage": 0,
+        "applicable_condition": "Students admitted under Open / General merit without any government subsidy."
+      },
+      "ebc_and_ews": {
+        "tuition_fee": 52609,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 72392,
+        "concession_percentage": 50,
+        "applicable_condition": "CAP-admitted Open category students with valid Tahsildar Income Certificate <= Rs. 8,00,000."
+      },
+      "obc": {
+        "tuition_fee": 52609,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 72392,
+        "concession_percentage": 50,
+        "applicable_condition": "CAP-admitted OBC students with Caste, Validity and valid Non-Creamy Layer (NCL) certificate with parental income <= Rs. 8,00,000."
+      },
+      "vj_nt_sbc": {
+        "tuition_fee": 0,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 19783,
+        "concession_percentage": 100,
+        "applicable_condition": "CAP-admitted VJ/NT/SBC category students with valid Caste, Validity and NCL certificates."
+      },
+      "tfws": {
+        "tuition_fee": 0,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 19783,
+        "concession_percentage": 100,
+        "applicable_condition": "Students allotted specifically through State CET Cell TFWS quota seats."
+      },
+      "sc_st": {
+        "tuition_fee": 0,
+        "development_fee": 0,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 4000,
+        "concession_percentage": 100,
+        "applicable_condition": "CAP-admitted SC/ST students with Caste and Validity certificates; tuition & development fees reimbursed by Govt."
+      },
+      "girls_scheme_ebc": {
+        "tuition_fee": 0,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 19783,
+        "concession_percentage": 100,
+        "applicable_condition": "Female students admitted through CAP with family income <= Rs. 8 Lakhs under Govt Free Education for Girls policy."
+      },
+      "institutional_quota": {
+        "tuition_fee": 105217,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 125000,
+        "concession_percentage": 0,
+        "applicable_condition": "Admissions through 20% Institute Level / Management quota; government scholarships not applicable."
+      }
+    },
+    "admission_quota": "CAP (80%) / Institutional Quota (20%)",
+    "payment_frequency": "Annual payment at the time of admission; semester installments allowed upon written approval from Accounts Office",
+    "payment_modes": [
+      "Online Net Banking / UPI via DKTE ERP Parent Portal",
+      "Debit Card / Credit Card swipe at College Accounts Counter",
+      "Demand Draft in favor of 'Director, DKTE Society's TEI, Ichalkaranji' payable at Ichalkaranji"
+    ],
+    "source_id": "d7d0568b-8a13-5c2c-a17a-d8e1147a6f7d",
+    "source_url": "https://www.dkte.ac.in/fee-structure.php",
+    "last_verified": "2024-08-15",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "fee_id": "792404b8-2134-569a-830f-37214c199e60",
+    "course_id": "399014c5-25a5-5a47-a64b-159032b3366c",
+    "academic_year": "2024-2025",
+    "tuition_fees": 105217,
+    "development_fees": 15783,
+    "examination_fees": 3000,
+    "other_annual_fees": 1000,
+    "caution_money_deposit_one_time": 1000,
+    "total_annual_fee_open": 125000,
+    "total_programme_cost_open": 501000,
+    "hostel_fees_annual": 25000,
+    "mess_charges_annual": 33000,
+    "category_wise_fees": {
+      "open_general": {
+        "tuition_fee": 105217,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 125000,
+        "concession_percentage": 0,
+        "applicable_condition": "Students admitted under Open / General merit without any government subsidy."
+      },
+      "ebc_and_ews": {
+        "tuition_fee": 52609,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 72392,
+        "concession_percentage": 50,
+        "applicable_condition": "CAP-admitted Open category students with valid Tahsildar Income Certificate <= Rs. 8,00,000."
+      },
+      "obc": {
+        "tuition_fee": 52609,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 72392,
+        "concession_percentage": 50,
+        "applicable_condition": "CAP-admitted OBC students with Caste, Validity and valid Non-Creamy Layer (NCL) certificate with parental income <= Rs. 8,00,000."
+      },
+      "vj_nt_sbc": {
+        "tuition_fee": 0,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 19783,
+        "concession_percentage": 100,
+        "applicable_condition": "CAP-admitted VJ/NT/SBC category students with valid Caste, Validity and NCL certificates."
+      },
+      "tfws": {
+        "tuition_fee": 0,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 19783,
+        "concession_percentage": 100,
+        "applicable_condition": "Students allotted specifically through State CET Cell TFWS quota seats."
+      },
+      "sc_st": {
+        "tuition_fee": 0,
+        "development_fee": 0,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 4000,
+        "concession_percentage": 100,
+        "applicable_condition": "CAP-admitted SC/ST students with Caste and Validity certificates; tuition & development fees reimbursed by Govt."
+      },
+      "girls_scheme_ebc": {
+        "tuition_fee": 0,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 19783,
+        "concession_percentage": 100,
+        "applicable_condition": "Female students admitted through CAP with family income <= Rs. 8 Lakhs under Govt Free Education for Girls policy."
+      },
+      "institutional_quota": {
+        "tuition_fee": 105217,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 125000,
+        "concession_percentage": 0,
+        "applicable_condition": "Admissions through 20% Institute Level / Management quota; government scholarships not applicable."
+      }
+    },
+    "admission_quota": "CAP (80%) / Institutional Quota (20%)",
+    "payment_frequency": "Annual payment at the time of admission; semester installments allowed upon written approval from Accounts Office",
+    "payment_modes": [
+      "Online Net Banking / UPI via DKTE ERP Parent Portal",
+      "Debit Card / Credit Card swipe at College Accounts Counter",
+      "Demand Draft in favor of 'Director, DKTE Society's TEI, Ichalkaranji' payable at Ichalkaranji"
+    ],
+    "source_id": "d7d0568b-8a13-5c2c-a17a-d8e1147a6f7d",
+    "source_url": "https://www.dkte.ac.in/fee-structure.php",
+    "last_verified": "2024-08-15",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "fee_id": "dbc7ae8b-d63f-5710-a140-acd0644202af",
+    "course_id": "ac0be789-7659-5a4b-8bce-7015a4f85726",
+    "academic_year": "2024-2025",
+    "tuition_fees": 105217,
+    "development_fees": 15783,
+    "examination_fees": 3000,
+    "other_annual_fees": 1000,
+    "caution_money_deposit_one_time": 1000,
+    "total_annual_fee_open": 125000,
+    "total_programme_cost_open": 501000,
+    "hostel_fees_annual": 25000,
+    "mess_charges_annual": 33000,
+    "category_wise_fees": {
+      "open_general": {
+        "tuition_fee": 105217,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 125000,
+        "concession_percentage": 0,
+        "applicable_condition": "Students admitted under Open / General merit without any government subsidy."
+      },
+      "ebc_and_ews": {
+        "tuition_fee": 52609,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 72392,
+        "concession_percentage": 50,
+        "applicable_condition": "CAP-admitted Open category students with valid Tahsildar Income Certificate <= Rs. 8,00,000."
+      },
+      "obc": {
+        "tuition_fee": 52609,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 72392,
+        "concession_percentage": 50,
+        "applicable_condition": "CAP-admitted OBC students with Caste, Validity and valid Non-Creamy Layer (NCL) certificate with parental income <= Rs. 8,00,000."
+      },
+      "vj_nt_sbc": {
+        "tuition_fee": 0,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 19783,
+        "concession_percentage": 100,
+        "applicable_condition": "CAP-admitted VJ/NT/SBC category students with valid Caste, Validity and NCL certificates."
+      },
+      "tfws": {
+        "tuition_fee": 0,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 19783,
+        "concession_percentage": 100,
+        "applicable_condition": "Students allotted specifically through State CET Cell TFWS quota seats."
+      },
+      "sc_st": {
+        "tuition_fee": 0,
+        "development_fee": 0,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 4000,
+        "concession_percentage": 100,
+        "applicable_condition": "CAP-admitted SC/ST students with Caste and Validity certificates; tuition & development fees reimbursed by Govt."
+      },
+      "girls_scheme_ebc": {
+        "tuition_fee": 0,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 19783,
+        "concession_percentage": 100,
+        "applicable_condition": "Female students admitted through CAP with family income <= Rs. 8 Lakhs under Govt Free Education for Girls policy."
+      },
+      "institutional_quota": {
+        "tuition_fee": 105217,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 125000,
+        "concession_percentage": 0,
+        "applicable_condition": "Admissions through 20% Institute Level / Management quota; government scholarships not applicable."
+      }
+    },
+    "admission_quota": "CAP (80%) / Institutional Quota (20%)",
+    "payment_frequency": "Annual payment at the time of admission; semester installments allowed upon written approval from Accounts Office",
+    "payment_modes": [
+      "Online Net Banking / UPI via DKTE ERP Parent Portal",
+      "Debit Card / Credit Card swipe at College Accounts Counter",
+      "Demand Draft in favor of 'Director, DKTE Society's TEI, Ichalkaranji' payable at Ichalkaranji"
+    ],
+    "source_id": "d7d0568b-8a13-5c2c-a17a-d8e1147a6f7d",
+    "source_url": "https://www.dkte.ac.in/fee-structure.php",
+    "last_verified": "2024-08-15",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "fee_id": "c42f3fe8-b51b-5d36-b4e3-c75e685ddeeb",
+    "course_id": "e35ede27-ef0e-54ea-81db-bf20478db182",
+    "academic_year": "2024-2025",
+    "tuition_fees": 105217,
+    "development_fees": 15783,
+    "examination_fees": 3000,
+    "other_annual_fees": 1000,
+    "caution_money_deposit_one_time": 1000,
+    "total_annual_fee_open": 125000,
+    "total_programme_cost_open": 501000,
+    "hostel_fees_annual": 25000,
+    "mess_charges_annual": 33000,
+    "category_wise_fees": {
+      "open_general": {
+        "tuition_fee": 105217,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 125000,
+        "concession_percentage": 0,
+        "applicable_condition": "Students admitted under Open / General merit without any government subsidy."
+      },
+      "ebc_and_ews": {
+        "tuition_fee": 52609,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 72392,
+        "concession_percentage": 50,
+        "applicable_condition": "CAP-admitted Open category students with valid Tahsildar Income Certificate <= Rs. 8,00,000."
+      },
+      "obc": {
+        "tuition_fee": 52609,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 72392,
+        "concession_percentage": 50,
+        "applicable_condition": "CAP-admitted OBC students with Caste, Validity and valid Non-Creamy Layer (NCL) certificate with parental income <= Rs. 8,00,000."
+      },
+      "vj_nt_sbc": {
+        "tuition_fee": 0,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 19783,
+        "concession_percentage": 100,
+        "applicable_condition": "CAP-admitted VJ/NT/SBC category students with valid Caste, Validity and NCL certificates."
+      },
+      "tfws": {
+        "tuition_fee": 0,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 19783,
+        "concession_percentage": 100,
+        "applicable_condition": "Students allotted specifically through State CET Cell TFWS quota seats."
+      },
+      "sc_st": {
+        "tuition_fee": 0,
+        "development_fee": 0,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 4000,
+        "concession_percentage": 100,
+        "applicable_condition": "CAP-admitted SC/ST students with Caste and Validity certificates; tuition & development fees reimbursed by Govt."
+      },
+      "girls_scheme_ebc": {
+        "tuition_fee": 0,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 19783,
+        "concession_percentage": 100,
+        "applicable_condition": "Female students admitted through CAP with family income <= Rs. 8 Lakhs under Govt Free Education for Girls policy."
+      },
+      "institutional_quota": {
+        "tuition_fee": 105217,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 125000,
+        "concession_percentage": 0,
+        "applicable_condition": "Admissions through 20% Institute Level / Management quota; government scholarships not applicable."
+      }
+    },
+    "admission_quota": "CAP (80%) / Institutional Quota (20%)",
+    "payment_frequency": "Annual payment at the time of admission; semester installments allowed upon written approval from Accounts Office",
+    "payment_modes": [
+      "Online Net Banking / UPI via DKTE ERP Parent Portal",
+      "Debit Card / Credit Card swipe at College Accounts Counter",
+      "Demand Draft in favor of 'Director, DKTE Society's TEI, Ichalkaranji' payable at Ichalkaranji"
+    ],
+    "source_id": "d7d0568b-8a13-5c2c-a17a-d8e1147a6f7d",
+    "source_url": "https://www.dkte.ac.in/fee-structure.php",
+    "last_verified": "2024-08-15",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "fee_id": "01b7239d-8ea4-5f18-b5a9-5ee0c4010c3e",
+    "course_id": "ab663be9-9456-5cd5-a242-bc36a2ea9e48",
+    "academic_year": "2024-2025",
+    "tuition_fees": 105217,
+    "development_fees": 15783,
+    "examination_fees": 3000,
+    "other_annual_fees": 1000,
+    "caution_money_deposit_one_time": 1000,
+    "total_annual_fee_open": 125000,
+    "total_programme_cost_open": 501000,
+    "hostel_fees_annual": 25000,
+    "mess_charges_annual": 33000,
+    "category_wise_fees": {
+      "open_general": {
+        "tuition_fee": 105217,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 125000,
+        "concession_percentage": 0,
+        "applicable_condition": "Students admitted under Open / General merit without any government subsidy."
+      },
+      "ebc_and_ews": {
+        "tuition_fee": 52609,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 72392,
+        "concession_percentage": 50,
+        "applicable_condition": "CAP-admitted Open category students with valid Tahsildar Income Certificate <= Rs. 8,00,000."
+      },
+      "obc": {
+        "tuition_fee": 52609,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 72392,
+        "concession_percentage": 50,
+        "applicable_condition": "CAP-admitted OBC students with Caste, Validity and valid Non-Creamy Layer (NCL) certificate with parental income <= Rs. 8,00,000."
+      },
+      "vj_nt_sbc": {
+        "tuition_fee": 0,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 19783,
+        "concession_percentage": 100,
+        "applicable_condition": "CAP-admitted VJ/NT/SBC category students with valid Caste, Validity and NCL certificates."
+      },
+      "tfws": {
+        "tuition_fee": 0,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 19783,
+        "concession_percentage": 100,
+        "applicable_condition": "Students allotted specifically through State CET Cell TFWS quota seats."
+      },
+      "sc_st": {
+        "tuition_fee": 0,
+        "development_fee": 0,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 4000,
+        "concession_percentage": 100,
+        "applicable_condition": "CAP-admitted SC/ST students with Caste and Validity certificates; tuition & development fees reimbursed by Govt."
+      },
+      "girls_scheme_ebc": {
+        "tuition_fee": 0,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 19783,
+        "concession_percentage": 100,
+        "applicable_condition": "Female students admitted through CAP with family income <= Rs. 8 Lakhs under Govt Free Education for Girls policy."
+      },
+      "institutional_quota": {
+        "tuition_fee": 105217,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 125000,
+        "concession_percentage": 0,
+        "applicable_condition": "Admissions through 20% Institute Level / Management quota; government scholarships not applicable."
+      }
+    },
+    "admission_quota": "CAP (80%) / Institutional Quota (20%)",
+    "payment_frequency": "Annual payment at the time of admission; semester installments allowed upon written approval from Accounts Office",
+    "payment_modes": [
+      "Online Net Banking / UPI via DKTE ERP Parent Portal",
+      "Debit Card / Credit Card swipe at College Accounts Counter",
+      "Demand Draft in favor of 'Director, DKTE Society's TEI, Ichalkaranji' payable at Ichalkaranji"
+    ],
+    "source_id": "d7d0568b-8a13-5c2c-a17a-d8e1147a6f7d",
+    "source_url": "https://www.dkte.ac.in/fee-structure.php",
+    "last_verified": "2024-08-15",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "fee_id": "bc3b52d1-dafe-55d5-aced-741ed8ab49ee",
+    "course_id": "0dc4645d-1b3d-5e4b-847a-d221325cc1e6",
+    "academic_year": "2024-2025",
+    "tuition_fees": 105217,
+    "development_fees": 15783,
+    "examination_fees": 3000,
+    "other_annual_fees": 1000,
+    "caution_money_deposit_one_time": 1000,
+    "total_annual_fee_open": 125000,
+    "total_programme_cost_open": 501000,
+    "hostel_fees_annual": 25000,
+    "mess_charges_annual": 33000,
+    "category_wise_fees": {
+      "open_general": {
+        "tuition_fee": 105217,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 125000,
+        "concession_percentage": 0,
+        "applicable_condition": "Students admitted under Open / General merit without any government subsidy."
+      },
+      "ebc_and_ews": {
+        "tuition_fee": 52609,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 72392,
+        "concession_percentage": 50,
+        "applicable_condition": "CAP-admitted Open category students with valid Tahsildar Income Certificate <= Rs. 8,00,000."
+      },
+      "obc": {
+        "tuition_fee": 52609,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 72392,
+        "concession_percentage": 50,
+        "applicable_condition": "CAP-admitted OBC students with Caste, Validity and valid Non-Creamy Layer (NCL) certificate with parental income <= Rs. 8,00,000."
+      },
+      "vj_nt_sbc": {
+        "tuition_fee": 0,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 19783,
+        "concession_percentage": 100,
+        "applicable_condition": "CAP-admitted VJ/NT/SBC category students with valid Caste, Validity and NCL certificates."
+      },
+      "tfws": {
+        "tuition_fee": 0,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 19783,
+        "concession_percentage": 100,
+        "applicable_condition": "Students allotted specifically through State CET Cell TFWS quota seats."
+      },
+      "sc_st": {
+        "tuition_fee": 0,
+        "development_fee": 0,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 4000,
+        "concession_percentage": 100,
+        "applicable_condition": "CAP-admitted SC/ST students with Caste and Validity certificates; tuition & development fees reimbursed by Govt."
+      },
+      "girls_scheme_ebc": {
+        "tuition_fee": 0,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 19783,
+        "concession_percentage": 100,
+        "applicable_condition": "Female students admitted through CAP with family income <= Rs. 8 Lakhs under Govt Free Education for Girls policy."
+      },
+      "institutional_quota": {
+        "tuition_fee": 105217,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 125000,
+        "concession_percentage": 0,
+        "applicable_condition": "Admissions through 20% Institute Level / Management quota; government scholarships not applicable."
+      }
+    },
+    "admission_quota": "CAP (80%) / Institutional Quota (20%)",
+    "payment_frequency": "Annual payment at the time of admission; semester installments allowed upon written approval from Accounts Office",
+    "payment_modes": [
+      "Online Net Banking / UPI via DKTE ERP Parent Portal",
+      "Debit Card / Credit Card swipe at College Accounts Counter",
+      "Demand Draft in favor of 'Director, DKTE Society's TEI, Ichalkaranji' payable at Ichalkaranji"
+    ],
+    "source_id": "d7d0568b-8a13-5c2c-a17a-d8e1147a6f7d",
+    "source_url": "https://www.dkte.ac.in/fee-structure.php",
+    "last_verified": "2024-08-15",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "fee_id": "057f51a2-40a4-57d5-92d3-182021ac8404",
+    "course_id": "270d9807-a828-5a05-9fed-457ecc9bd4a8",
+    "academic_year": "2024-2025",
+    "tuition_fees": 105217,
+    "development_fees": 15783,
+    "examination_fees": 3000,
+    "other_annual_fees": 1000,
+    "caution_money_deposit_one_time": 1000,
+    "total_annual_fee_open": 125000,
+    "total_programme_cost_open": 501000,
+    "hostel_fees_annual": 25000,
+    "mess_charges_annual": 33000,
+    "category_wise_fees": {
+      "open_general": {
+        "tuition_fee": 105217,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 125000,
+        "concession_percentage": 0,
+        "applicable_condition": "Students admitted under Open / General merit without any government subsidy."
+      },
+      "ebc_and_ews": {
+        "tuition_fee": 52609,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 72392,
+        "concession_percentage": 50,
+        "applicable_condition": "CAP-admitted Open category students with valid Tahsildar Income Certificate <= Rs. 8,00,000."
+      },
+      "obc": {
+        "tuition_fee": 52609,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 72392,
+        "concession_percentage": 50,
+        "applicable_condition": "CAP-admitted OBC students with Caste, Validity and valid Non-Creamy Layer (NCL) certificate with parental income <= Rs. 8,00,000."
+      },
+      "vj_nt_sbc": {
+        "tuition_fee": 0,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 19783,
+        "concession_percentage": 100,
+        "applicable_condition": "CAP-admitted VJ/NT/SBC category students with valid Caste, Validity and NCL certificates."
+      },
+      "tfws": {
+        "tuition_fee": 0,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 19783,
+        "concession_percentage": 100,
+        "applicable_condition": "Students allotted specifically through State CET Cell TFWS quota seats."
+      },
+      "sc_st": {
+        "tuition_fee": 0,
+        "development_fee": 0,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 4000,
+        "concession_percentage": 100,
+        "applicable_condition": "CAP-admitted SC/ST students with Caste and Validity certificates; tuition & development fees reimbursed by Govt."
+      },
+      "girls_scheme_ebc": {
+        "tuition_fee": 0,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 19783,
+        "concession_percentage": 100,
+        "applicable_condition": "Female students admitted through CAP with family income <= Rs. 8 Lakhs under Govt Free Education for Girls policy."
+      },
+      "institutional_quota": {
+        "tuition_fee": 105217,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 125000,
+        "concession_percentage": 0,
+        "applicable_condition": "Admissions through 20% Institute Level / Management quota; government scholarships not applicable."
+      }
+    },
+    "admission_quota": "CAP (80%) / Institutional Quota (20%)",
+    "payment_frequency": "Annual payment at the time of admission; semester installments allowed upon written approval from Accounts Office",
+    "payment_modes": [
+      "Online Net Banking / UPI via DKTE ERP Parent Portal",
+      "Debit Card / Credit Card swipe at College Accounts Counter",
+      "Demand Draft in favor of 'Director, DKTE Society's TEI, Ichalkaranji' payable at Ichalkaranji"
+    ],
+    "source_id": "d7d0568b-8a13-5c2c-a17a-d8e1147a6f7d",
+    "source_url": "https://www.dkte.ac.in/fee-structure.php",
+    "last_verified": "2024-08-15",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "fee_id": "92d15973-2db0-54e9-83b9-bc456d942a3e",
+    "course_id": "903afaeb-9ca5-51e0-b092-77b43b37f029",
+    "academic_year": "2024-2025",
+    "tuition_fees": 105217,
+    "development_fees": 15783,
+    "examination_fees": 3000,
+    "other_annual_fees": 1000,
+    "caution_money_deposit_one_time": 1000,
+    "total_annual_fee_open": 125000,
+    "total_programme_cost_open": 501000,
+    "hostel_fees_annual": 25000,
+    "mess_charges_annual": 33000,
+    "category_wise_fees": {
+      "open_general": {
+        "tuition_fee": 105217,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 125000,
+        "concession_percentage": 0,
+        "applicable_condition": "Students admitted under Open / General merit without any government subsidy."
+      },
+      "ebc_and_ews": {
+        "tuition_fee": 52609,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 72392,
+        "concession_percentage": 50,
+        "applicable_condition": "CAP-admitted Open category students with valid Tahsildar Income Certificate <= Rs. 8,00,000."
+      },
+      "obc": {
+        "tuition_fee": 52609,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 72392,
+        "concession_percentage": 50,
+        "applicable_condition": "CAP-admitted OBC students with Caste, Validity and valid Non-Creamy Layer (NCL) certificate with parental income <= Rs. 8,00,000."
+      },
+      "vj_nt_sbc": {
+        "tuition_fee": 0,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 19783,
+        "concession_percentage": 100,
+        "applicable_condition": "CAP-admitted VJ/NT/SBC category students with valid Caste, Validity and NCL certificates."
+      },
+      "tfws": {
+        "tuition_fee": 0,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 19783,
+        "concession_percentage": 100,
+        "applicable_condition": "Students allotted specifically through State CET Cell TFWS quota seats."
+      },
+      "sc_st": {
+        "tuition_fee": 0,
+        "development_fee": 0,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 4000,
+        "concession_percentage": 100,
+        "applicable_condition": "CAP-admitted SC/ST students with Caste and Validity certificates; tuition & development fees reimbursed by Govt."
+      },
+      "girls_scheme_ebc": {
+        "tuition_fee": 0,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 19783,
+        "concession_percentage": 100,
+        "applicable_condition": "Female students admitted through CAP with family income <= Rs. 8 Lakhs under Govt Free Education for Girls policy."
+      },
+      "institutional_quota": {
+        "tuition_fee": 105217,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 125000,
+        "concession_percentage": 0,
+        "applicable_condition": "Admissions through 20% Institute Level / Management quota; government scholarships not applicable."
+      }
+    },
+    "admission_quota": "CAP (80%) / Institutional Quota (20%)",
+    "payment_frequency": "Annual payment at the time of admission; semester installments allowed upon written approval from Accounts Office",
+    "payment_modes": [
+      "Online Net Banking / UPI via DKTE ERP Parent Portal",
+      "Debit Card / Credit Card swipe at College Accounts Counter",
+      "Demand Draft in favor of 'Director, DKTE Society's TEI, Ichalkaranji' payable at Ichalkaranji"
+    ],
+    "source_id": "d7d0568b-8a13-5c2c-a17a-d8e1147a6f7d",
+    "source_url": "https://www.dkte.ac.in/fee-structure.php",
+    "last_verified": "2024-08-15",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "fee_id": "f2451594-8e31-5545-8815-9fa384ff6958",
+    "course_id": "9a36d4f4-878b-5e29-b6b9-cedff06a358c",
+    "academic_year": "2024-2025",
+    "tuition_fees": 105217,
+    "development_fees": 15783,
+    "examination_fees": 3000,
+    "other_annual_fees": 1000,
+    "caution_money_deposit_one_time": 1000,
+    "total_annual_fee_open": 125000,
+    "total_programme_cost_open": 501000,
+    "hostel_fees_annual": 25000,
+    "mess_charges_annual": 33000,
+    "category_wise_fees": {
+      "open_general": {
+        "tuition_fee": 105217,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 125000,
+        "concession_percentage": 0,
+        "applicable_condition": "Students admitted under Open / General merit without any government subsidy."
+      },
+      "ebc_and_ews": {
+        "tuition_fee": 52609,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 72392,
+        "concession_percentage": 50,
+        "applicable_condition": "CAP-admitted Open category students with valid Tahsildar Income Certificate <= Rs. 8,00,000."
+      },
+      "obc": {
+        "tuition_fee": 52609,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 72392,
+        "concession_percentage": 50,
+        "applicable_condition": "CAP-admitted OBC students with Caste, Validity and valid Non-Creamy Layer (NCL) certificate with parental income <= Rs. 8,00,000."
+      },
+      "vj_nt_sbc": {
+        "tuition_fee": 0,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 19783,
+        "concession_percentage": 100,
+        "applicable_condition": "CAP-admitted VJ/NT/SBC category students with valid Caste, Validity and NCL certificates."
+      },
+      "tfws": {
+        "tuition_fee": 0,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 19783,
+        "concession_percentage": 100,
+        "applicable_condition": "Students allotted specifically through State CET Cell TFWS quota seats."
+      },
+      "sc_st": {
+        "tuition_fee": 0,
+        "development_fee": 0,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 4000,
+        "concession_percentage": 100,
+        "applicable_condition": "CAP-admitted SC/ST students with Caste and Validity certificates; tuition & development fees reimbursed by Govt."
+      },
+      "girls_scheme_ebc": {
+        "tuition_fee": 0,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 19783,
+        "concession_percentage": 100,
+        "applicable_condition": "Female students admitted through CAP with family income <= Rs. 8 Lakhs under Govt Free Education for Girls policy."
+      },
+      "institutional_quota": {
+        "tuition_fee": 105217,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 125000,
+        "concession_percentage": 0,
+        "applicable_condition": "Admissions through 20% Institute Level / Management quota; government scholarships not applicable."
+      }
+    },
+    "admission_quota": "CAP (80%) / Institutional Quota (20%)",
+    "payment_frequency": "Annual payment at the time of admission; semester installments allowed upon written approval from Accounts Office",
+    "payment_modes": [
+      "Online Net Banking / UPI via DKTE ERP Parent Portal",
+      "Debit Card / Credit Card swipe at College Accounts Counter",
+      "Demand Draft in favor of 'Director, DKTE Society's TEI, Ichalkaranji' payable at Ichalkaranji"
+    ],
+    "source_id": "d7d0568b-8a13-5c2c-a17a-d8e1147a6f7d",
+    "source_url": "https://www.dkte.ac.in/fee-structure.php",
+    "last_verified": "2024-08-15",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "fee_id": "79642653-6de5-5647-974f-05f13b5cc487",
+    "course_id": "f8f09bf2-5c23-5811-9e28-f85f4d4cc335",
+    "academic_year": "2024-2025",
+    "tuition_fees": 105217,
+    "development_fees": 15783,
+    "examination_fees": 3000,
+    "other_annual_fees": 1000,
+    "caution_money_deposit_one_time": 1000,
+    "total_annual_fee_open": 125000,
+    "total_programme_cost_open": 501000,
+    "hostel_fees_annual": 25000,
+    "mess_charges_annual": 33000,
+    "category_wise_fees": {
+      "open_general": {
+        "tuition_fee": 105217,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 125000,
+        "concession_percentage": 0,
+        "applicable_condition": "Students admitted under Open / General merit without any government subsidy."
+      },
+      "ebc_and_ews": {
+        "tuition_fee": 52609,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 72392,
+        "concession_percentage": 50,
+        "applicable_condition": "CAP-admitted Open category students with valid Tahsildar Income Certificate <= Rs. 8,00,000."
+      },
+      "obc": {
+        "tuition_fee": 52609,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 72392,
+        "concession_percentage": 50,
+        "applicable_condition": "CAP-admitted OBC students with Caste, Validity and valid Non-Creamy Layer (NCL) certificate with parental income <= Rs. 8,00,000."
+      },
+      "vj_nt_sbc": {
+        "tuition_fee": 0,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 19783,
+        "concession_percentage": 100,
+        "applicable_condition": "CAP-admitted VJ/NT/SBC category students with valid Caste, Validity and NCL certificates."
+      },
+      "tfws": {
+        "tuition_fee": 0,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 19783,
+        "concession_percentage": 100,
+        "applicable_condition": "Students allotted specifically through State CET Cell TFWS quota seats."
+      },
+      "sc_st": {
+        "tuition_fee": 0,
+        "development_fee": 0,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 4000,
+        "concession_percentage": 100,
+        "applicable_condition": "CAP-admitted SC/ST students with Caste and Validity certificates; tuition & development fees reimbursed by Govt."
+      },
+      "girls_scheme_ebc": {
+        "tuition_fee": 0,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 19783,
+        "concession_percentage": 100,
+        "applicable_condition": "Female students admitted through CAP with family income <= Rs. 8 Lakhs under Govt Free Education for Girls policy."
+      },
+      "institutional_quota": {
+        "tuition_fee": 105217,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 125000,
+        "concession_percentage": 0,
+        "applicable_condition": "Admissions through 20% Institute Level / Management quota; government scholarships not applicable."
+      }
+    },
+    "admission_quota": "CAP (80%) / Institutional Quota (20%)",
+    "payment_frequency": "Annual payment at the time of admission; semester installments allowed upon written approval from Accounts Office",
+    "payment_modes": [
+      "Online Net Banking / UPI via DKTE ERP Parent Portal",
+      "Debit Card / Credit Card swipe at College Accounts Counter",
+      "Demand Draft in favor of 'Director, DKTE Society's TEI, Ichalkaranji' payable at Ichalkaranji"
+    ],
+    "source_id": "d7d0568b-8a13-5c2c-a17a-d8e1147a6f7d",
+    "source_url": "https://www.dkte.ac.in/fee-structure.php",
+    "last_verified": "2024-08-15",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "fee_id": "ac346fda-18b2-5487-b392-2fda21faf3c7",
+    "course_id": "cfd0ea46-1acc-52db-ae5b-5519541c7c46",
+    "academic_year": "2024-2025",
+    "tuition_fees": 105217,
+    "development_fees": 15783,
+    "examination_fees": 3000,
+    "other_annual_fees": 1000,
+    "caution_money_deposit_one_time": 1000,
+    "total_annual_fee_open": 125000,
+    "total_programme_cost_open": 501000,
+    "hostel_fees_annual": 25000,
+    "mess_charges_annual": 33000,
+    "category_wise_fees": {
+      "open_general": {
+        "tuition_fee": 105217,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 125000,
+        "concession_percentage": 0,
+        "applicable_condition": "Students admitted under Open / General merit without any government subsidy."
+      },
+      "ebc_and_ews": {
+        "tuition_fee": 52609,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 72392,
+        "concession_percentage": 50,
+        "applicable_condition": "CAP-admitted Open category students with valid Tahsildar Income Certificate <= Rs. 8,00,000."
+      },
+      "obc": {
+        "tuition_fee": 52609,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 72392,
+        "concession_percentage": 50,
+        "applicable_condition": "CAP-admitted OBC students with Caste, Validity and valid Non-Creamy Layer (NCL) certificate with parental income <= Rs. 8,00,000."
+      },
+      "vj_nt_sbc": {
+        "tuition_fee": 0,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 19783,
+        "concession_percentage": 100,
+        "applicable_condition": "CAP-admitted VJ/NT/SBC category students with valid Caste, Validity and NCL certificates."
+      },
+      "tfws": {
+        "tuition_fee": 0,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 19783,
+        "concession_percentage": 100,
+        "applicable_condition": "Students allotted specifically through State CET Cell TFWS quota seats."
+      },
+      "sc_st": {
+        "tuition_fee": 0,
+        "development_fee": 0,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 4000,
+        "concession_percentage": 100,
+        "applicable_condition": "CAP-admitted SC/ST students with Caste and Validity certificates; tuition & development fees reimbursed by Govt."
+      },
+      "girls_scheme_ebc": {
+        "tuition_fee": 0,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 19783,
+        "concession_percentage": 100,
+        "applicable_condition": "Female students admitted through CAP with family income <= Rs. 8 Lakhs under Govt Free Education for Girls policy."
+      },
+      "institutional_quota": {
+        "tuition_fee": 105217,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 125000,
+        "concession_percentage": 0,
+        "applicable_condition": "Admissions through 20% Institute Level / Management quota; government scholarships not applicable."
+      }
+    },
+    "admission_quota": "CAP (80%) / Institutional Quota (20%)",
+    "payment_frequency": "Annual payment at the time of admission; semester installments allowed upon written approval from Accounts Office",
+    "payment_modes": [
+      "Online Net Banking / UPI via DKTE ERP Parent Portal",
+      "Debit Card / Credit Card swipe at College Accounts Counter",
+      "Demand Draft in favor of 'Director, DKTE Society's TEI, Ichalkaranji' payable at Ichalkaranji"
+    ],
+    "source_id": "d7d0568b-8a13-5c2c-a17a-d8e1147a6f7d",
+    "source_url": "https://www.dkte.ac.in/fee-structure.php",
+    "last_verified": "2024-08-15",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "fee_id": "f0908535-26fa-541b-8658-b3c7830bfe3b",
+    "course_id": "1cc6d76f-1b57-59e5-a14a-f5335ae7a2c6",
+    "academic_year": "2024-2025",
+    "tuition_fees": 105217,
+    "development_fees": 15783,
+    "examination_fees": 3000,
+    "other_annual_fees": 1000,
+    "caution_money_deposit_one_time": 1000,
+    "total_annual_fee_open": 125000,
+    "total_programme_cost_open": 501000,
+    "hostel_fees_annual": 25000,
+    "mess_charges_annual": 33000,
+    "category_wise_fees": {
+      "open_general": {
+        "tuition_fee": 105217,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 125000,
+        "concession_percentage": 0,
+        "applicable_condition": "Students admitted under Open / General merit without any government subsidy."
+      },
+      "ebc_and_ews": {
+        "tuition_fee": 52609,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 72392,
+        "concession_percentage": 50,
+        "applicable_condition": "CAP-admitted Open category students with valid Tahsildar Income Certificate <= Rs. 8,00,000."
+      },
+      "obc": {
+        "tuition_fee": 52609,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 72392,
+        "concession_percentage": 50,
+        "applicable_condition": "CAP-admitted OBC students with Caste, Validity and valid Non-Creamy Layer (NCL) certificate with parental income <= Rs. 8,00,000."
+      },
+      "vj_nt_sbc": {
+        "tuition_fee": 0,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 19783,
+        "concession_percentage": 100,
+        "applicable_condition": "CAP-admitted VJ/NT/SBC category students with valid Caste, Validity and NCL certificates."
+      },
+      "tfws": {
+        "tuition_fee": 0,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 19783,
+        "concession_percentage": 100,
+        "applicable_condition": "Students allotted specifically through State CET Cell TFWS quota seats."
+      },
+      "sc_st": {
+        "tuition_fee": 0,
+        "development_fee": 0,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 4000,
+        "concession_percentage": 100,
+        "applicable_condition": "CAP-admitted SC/ST students with Caste and Validity certificates; tuition & development fees reimbursed by Govt."
+      },
+      "girls_scheme_ebc": {
+        "tuition_fee": 0,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 19783,
+        "concession_percentage": 100,
+        "applicable_condition": "Female students admitted through CAP with family income <= Rs. 8 Lakhs under Govt Free Education for Girls policy."
+      },
+      "institutional_quota": {
+        "tuition_fee": 105217,
+        "development_fee": 15783,
+        "exam_and_other_fees": 4000,
+        "total_payable_annual": 125000,
+        "concession_percentage": 0,
+        "applicable_condition": "Admissions through 20% Institute Level / Management quota; government scholarships not applicable."
+      }
+    },
+    "admission_quota": "CAP (80%) / Institutional Quota (20%)",
+    "payment_frequency": "Annual payment at the time of admission; semester installments allowed upon written approval from Accounts Office",
+    "payment_modes": [
+      "Online Net Banking / UPI via DKTE ERP Parent Portal",
+      "Debit Card / Credit Card swipe at College Accounts Counter",
+      "Demand Draft in favor of 'Director, DKTE Society's TEI, Ichalkaranji' payable at Ichalkaranji"
+    ],
+    "source_id": "d7d0568b-8a13-5c2c-a17a-d8e1147a6f7d",
+    "source_url": "https://www.dkte.ac.in/fee-structure.php",
+    "last_verified": "2024-08-15",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "fee_id": "c14a709d-3657-579c-96cb-5858e318654d",
+    "course_id": "8bedc64b-0489-5f8c-80f6-63a454271961",
+    "academic_year": "2024-2025",
+    "tuition_fees": 82609,
+    "development_fees": 12391,
+    "examination_fees": 3500,
+    "other_annual_fees": 1000,
+    "caution_money_deposit_one_time": 1000,
+    "total_annual_fee_open": 99500,
+    "total_programme_cost_open": 200000,
+    "hostel_fees_annual": 25000,
+    "mess_charges_annual": 33000,
+    "category_wise_fees": {
+      "open_general": {
+        "tuition_fee": 82609,
+        "development_fee": 12391,
+        "exam_and_other_fees": 4500,
+        "total_payable_annual": 99500,
+        "concession_percentage": 0,
+        "applicable_condition": "Open / General category PG students."
+      },
+      "ebc_and_ews": {
+        "tuition_fee": 41304,
+        "development_fee": 12391,
+        "exam_and_other_fees": 4500,
+        "total_payable_annual": 58195,
+        "concession_percentage": 50,
+        "applicable_condition": "CAP-admitted with Tahsildar Income Certificate <= Rs. 8,00,000."
+      },
+      "obc": {
+        "tuition_fee": 41304,
+        "development_fee": 12391,
+        "exam_and_other_fees": 4500,
+        "total_payable_annual": 58195,
+        "concession_percentage": 50,
+        "applicable_condition": "CAP-admitted OBC category candidates with valid Caste, Validity and NCL."
+      },
+      "sc_st": {
+        "tuition_fee": 0,
+        "development_fee": 0,
+        "exam_and_other_fees": 4500,
+        "total_payable_annual": 4500,
+        "concession_percentage": 100,
+        "applicable_condition": "SC/ST candidates through CAP with valid documents."
+      }
+    },
+    "admission_quota": "CAP (80%) / Institutional Quota (20%)",
+    "payment_frequency": "Annual payment at the time of admission; semester installments allowed upon written approval from Accounts Office",
+    "payment_modes": [
+      "Online Net Banking / UPI via DKTE ERP Parent Portal",
+      "Debit Card / Credit Card swipe at College Accounts Counter",
+      "Demand Draft in favor of 'Director, DKTE Society's TEI, Ichalkaranji' payable at Ichalkaranji"
+    ],
+    "source_id": "d7d0568b-8a13-5c2c-a17a-d8e1147a6f7d",
+    "source_url": "https://www.dkte.ac.in/fee-structure.php",
+    "last_verified": "2024-08-15",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "fee_id": "83a98e23-5ff9-5ed5-9b1c-94c5a7dab62d",
+    "course_id": "43c2d77e-b075-5648-90e7-4d2c0bc310bb",
+    "academic_year": "2024-2025",
+    "tuition_fees": 82609,
+    "development_fees": 12391,
+    "examination_fees": 3500,
+    "other_annual_fees": 1000,
+    "caution_money_deposit_one_time": 1000,
+    "total_annual_fee_open": 99500,
+    "total_programme_cost_open": 200000,
+    "hostel_fees_annual": 25000,
+    "mess_charges_annual": 33000,
+    "category_wise_fees": {
+      "open_general": {
+        "tuition_fee": 82609,
+        "development_fee": 12391,
+        "exam_and_other_fees": 4500,
+        "total_payable_annual": 99500,
+        "concession_percentage": 0,
+        "applicable_condition": "Open / General category PG students."
+      },
+      "ebc_and_ews": {
+        "tuition_fee": 41304,
+        "development_fee": 12391,
+        "exam_and_other_fees": 4500,
+        "total_payable_annual": 58195,
+        "concession_percentage": 50,
+        "applicable_condition": "CAP-admitted with Tahsildar Income Certificate <= Rs. 8,00,000."
+      },
+      "obc": {
+        "tuition_fee": 41304,
+        "development_fee": 12391,
+        "exam_and_other_fees": 4500,
+        "total_payable_annual": 58195,
+        "concession_percentage": 50,
+        "applicable_condition": "CAP-admitted OBC category candidates with valid Caste, Validity and NCL."
+      },
+      "sc_st": {
+        "tuition_fee": 0,
+        "development_fee": 0,
+        "exam_and_other_fees": 4500,
+        "total_payable_annual": 4500,
+        "concession_percentage": 100,
+        "applicable_condition": "SC/ST candidates through CAP with valid documents."
+      }
+    },
+    "admission_quota": "CAP (80%) / Institutional Quota (20%)",
+    "payment_frequency": "Annual payment at the time of admission; semester installments allowed upon written approval from Accounts Office",
+    "payment_modes": [
+      "Online Net Banking / UPI via DKTE ERP Parent Portal",
+      "Debit Card / Credit Card swipe at College Accounts Counter",
+      "Demand Draft in favor of 'Director, DKTE Society's TEI, Ichalkaranji' payable at Ichalkaranji"
+    ],
+    "source_id": "d7d0568b-8a13-5c2c-a17a-d8e1147a6f7d",
+    "source_url": "https://www.dkte.ac.in/fee-structure.php",
+    "last_verified": "2024-08-15",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "fee_id": "b9b725b7-e3c3-5c23-93a0-fdf9f5e49998",
+    "course_id": "c25e9892-afbb-53c1-b78a-a3ba66cd921d",
+    "academic_year": "2024-2025",
+    "tuition_fees": 82609,
+    "development_fees": 12391,
+    "examination_fees": 3500,
+    "other_annual_fees": 1000,
+    "caution_money_deposit_one_time": 1000,
+    "total_annual_fee_open": 99500,
+    "total_programme_cost_open": 200000,
+    "hostel_fees_annual": 25000,
+    "mess_charges_annual": 33000,
+    "category_wise_fees": {
+      "open_general": {
+        "tuition_fee": 82609,
+        "development_fee": 12391,
+        "exam_and_other_fees": 4500,
+        "total_payable_annual": 99500,
+        "concession_percentage": 0,
+        "applicable_condition": "Open / General category PG students."
+      },
+      "ebc_and_ews": {
+        "tuition_fee": 41304,
+        "development_fee": 12391,
+        "exam_and_other_fees": 4500,
+        "total_payable_annual": 58195,
+        "concession_percentage": 50,
+        "applicable_condition": "CAP-admitted with Tahsildar Income Certificate <= Rs. 8,00,000."
+      },
+      "obc": {
+        "tuition_fee": 41304,
+        "development_fee": 12391,
+        "exam_and_other_fees": 4500,
+        "total_payable_annual": 58195,
+        "concession_percentage": 50,
+        "applicable_condition": "CAP-admitted OBC category candidates with valid Caste, Validity and NCL."
+      },
+      "sc_st": {
+        "tuition_fee": 0,
+        "development_fee": 0,
+        "exam_and_other_fees": 4500,
+        "total_payable_annual": 4500,
+        "concession_percentage": 100,
+        "applicable_condition": "SC/ST candidates through CAP with valid documents."
+      }
+    },
+    "admission_quota": "CAP (80%) / Institutional Quota (20%)",
+    "payment_frequency": "Annual payment at the time of admission; semester installments allowed upon written approval from Accounts Office",
+    "payment_modes": [
+      "Online Net Banking / UPI via DKTE ERP Parent Portal",
+      "Debit Card / Credit Card swipe at College Accounts Counter",
+      "Demand Draft in favor of 'Director, DKTE Society's TEI, Ichalkaranji' payable at Ichalkaranji"
+    ],
+    "source_id": "d7d0568b-8a13-5c2c-a17a-d8e1147a6f7d",
+    "source_url": "https://www.dkte.ac.in/fee-structure.php",
+    "last_verified": "2024-08-15",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "fee_id": "262c168c-e0f7-5233-8d5b-46841081ab65",
+    "course_id": "d24ce301-e302-5504-9b42-a3a2f1755b32",
+    "academic_year": "2024-2025",
+    "tuition_fees": 82609,
+    "development_fees": 12391,
+    "examination_fees": 3500,
+    "other_annual_fees": 1000,
+    "caution_money_deposit_one_time": 1000,
+    "total_annual_fee_open": 99500,
+    "total_programme_cost_open": 200000,
+    "hostel_fees_annual": 25000,
+    "mess_charges_annual": 33000,
+    "category_wise_fees": {
+      "open_general": {
+        "tuition_fee": 82609,
+        "development_fee": 12391,
+        "exam_and_other_fees": 4500,
+        "total_payable_annual": 99500,
+        "concession_percentage": 0,
+        "applicable_condition": "Open / General category PG students."
+      },
+      "ebc_and_ews": {
+        "tuition_fee": 41304,
+        "development_fee": 12391,
+        "exam_and_other_fees": 4500,
+        "total_payable_annual": 58195,
+        "concession_percentage": 50,
+        "applicable_condition": "CAP-admitted with Tahsildar Income Certificate <= Rs. 8,00,000."
+      },
+      "obc": {
+        "tuition_fee": 41304,
+        "development_fee": 12391,
+        "exam_and_other_fees": 4500,
+        "total_payable_annual": 58195,
+        "concession_percentage": 50,
+        "applicable_condition": "CAP-admitted OBC category candidates with valid Caste, Validity and NCL."
+      },
+      "sc_st": {
+        "tuition_fee": 0,
+        "development_fee": 0,
+        "exam_and_other_fees": 4500,
+        "total_payable_annual": 4500,
+        "concession_percentage": 100,
+        "applicable_condition": "SC/ST candidates through CAP with valid documents."
+      }
+    },
+    "admission_quota": "CAP (80%) / Institutional Quota (20%)",
+    "payment_frequency": "Annual payment at the time of admission; semester installments allowed upon written approval from Accounts Office",
+    "payment_modes": [
+      "Online Net Banking / UPI via DKTE ERP Parent Portal",
+      "Debit Card / Credit Card swipe at College Accounts Counter",
+      "Demand Draft in favor of 'Director, DKTE Society's TEI, Ichalkaranji' payable at Ichalkaranji"
+    ],
+    "source_id": "d7d0568b-8a13-5c2c-a17a-d8e1147a6f7d",
+    "source_url": "https://www.dkte.ac.in/fee-structure.php",
+    "last_verified": "2024-08-15",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "fee_id": "4ec44825-2408-5b3d-ab26-c340d00ffb98",
+    "course_id": "ff94dc4f-0d55-513b-9c0e-11cd6396fc08",
+    "academic_year": "2024-2025",
+    "tuition_fees": 82609,
+    "development_fees": 12391,
+    "examination_fees": 3500,
+    "other_annual_fees": 1000,
+    "caution_money_deposit_one_time": 1000,
+    "total_annual_fee_open": 99500,
+    "total_programme_cost_open": 200000,
+    "hostel_fees_annual": 25000,
+    "mess_charges_annual": 33000,
+    "category_wise_fees": {
+      "open_general": {
+        "tuition_fee": 82609,
+        "development_fee": 12391,
+        "exam_and_other_fees": 4500,
+        "total_payable_annual": 99500,
+        "concession_percentage": 0,
+        "applicable_condition": "Open / General category PG students."
+      },
+      "ebc_and_ews": {
+        "tuition_fee": 41304,
+        "development_fee": 12391,
+        "exam_and_other_fees": 4500,
+        "total_payable_annual": 58195,
+        "concession_percentage": 50,
+        "applicable_condition": "CAP-admitted with Tahsildar Income Certificate <= Rs. 8,00,000."
+      },
+      "obc": {
+        "tuition_fee": 41304,
+        "development_fee": 12391,
+        "exam_and_other_fees": 4500,
+        "total_payable_annual": 58195,
+        "concession_percentage": 50,
+        "applicable_condition": "CAP-admitted OBC category candidates with valid Caste, Validity and NCL."
+      },
+      "sc_st": {
+        "tuition_fee": 0,
+        "development_fee": 0,
+        "exam_and_other_fees": 4500,
+        "total_payable_annual": 4500,
+        "concession_percentage": 100,
+        "applicable_condition": "SC/ST candidates through CAP with valid documents."
+      }
+    },
+    "admission_quota": "CAP (80%) / Institutional Quota (20%)",
+    "payment_frequency": "Annual payment at the time of admission; semester installments allowed upon written approval from Accounts Office",
+    "payment_modes": [
+      "Online Net Banking / UPI via DKTE ERP Parent Portal",
+      "Debit Card / Credit Card swipe at College Accounts Counter",
+      "Demand Draft in favor of 'Director, DKTE Society's TEI, Ichalkaranji' payable at Ichalkaranji"
+    ],
+    "source_id": "d7d0568b-8a13-5c2c-a17a-d8e1147a6f7d",
+    "source_url": "https://www.dkte.ac.in/fee-structure.php",
+    "last_verified": "2024-08-15",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "fee_id": "c426a5c7-777f-5dfa-8e0d-76d233679cf2",
+    "course_id": "de4e5c83-c536-5090-b5cd-16f85b1bdb33",
+    "academic_year": "2024-2025",
+    "tuition_fees": 73913,
+    "development_fees": 11087,
+    "examination_fees": 3500,
+    "other_annual_fees": 1000,
+    "caution_money_deposit_one_time": 1000,
+    "total_annual_fee_open": 89500,
+    "total_programme_cost_open": 180000,
+    "hostel_fees_annual": 25000,
+    "mess_charges_annual": 33000,
+    "category_wise_fees": {
+      "open_general": {
+        "tuition_fee": 73913,
+        "development_fee": 11087,
+        "exam_and_other_fees": 4500,
+        "total_payable_annual": 89500,
+        "concession_percentage": 0,
+        "applicable_condition": "Open / General category PG students."
+      },
+      "ebc_and_ews": {
+        "tuition_fee": 36956,
+        "development_fee": 11087,
+        "exam_and_other_fees": 4500,
+        "total_payable_annual": 52543,
+        "concession_percentage": 50,
+        "applicable_condition": "CAP-admitted with Tahsildar Income Certificate <= Rs. 8,00,000."
+      },
+      "obc": {
+        "tuition_fee": 36956,
+        "development_fee": 11087,
+        "exam_and_other_fees": 4500,
+        "total_payable_annual": 52543,
+        "concession_percentage": 50,
+        "applicable_condition": "CAP-admitted OBC category candidates with valid Caste, Validity and NCL."
+      },
+      "sc_st": {
+        "tuition_fee": 0,
+        "development_fee": 0,
+        "exam_and_other_fees": 4500,
+        "total_payable_annual": 4500,
+        "concession_percentage": 100,
+        "applicable_condition": "SC/ST candidates through CAP with valid documents."
+      }
+    },
+    "admission_quota": "CAP (80%) / Institutional Quota (20%)",
+    "payment_frequency": "Annual payment at the time of admission; semester installments allowed upon written approval from Accounts Office",
+    "payment_modes": [
+      "Online Net Banking / UPI via DKTE ERP Parent Portal",
+      "Debit Card / Credit Card swipe at College Accounts Counter",
+      "Demand Draft in favor of 'Director, DKTE Society's TEI, Ichalkaranji' payable at Ichalkaranji"
+    ],
+    "source_id": "d7d0568b-8a13-5c2c-a17a-d8e1147a6f7d",
+    "source_url": "https://www.dkte.ac.in/fee-structure.php",
+    "last_verified": "2024-08-15",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "fee_id": "7e831e97-e481-51c1-88d6-fb8d94116038",
+    "course_id": "e9cbb8d2-1c7e-5c7c-b9a7-eb520639b9ce",
+    "academic_year": "2024-2025",
+    "tuition_fees": 69565,
+    "development_fees": 10435,
+    "examination_fees": 3500,
+    "other_annual_fees": 1000,
+    "caution_money_deposit_one_time": 1000,
+    "total_annual_fee_open": 84500,
+    "total_programme_cost_open": 170000,
+    "hostel_fees_annual": 25000,
+    "mess_charges_annual": 33000,
+    "category_wise_fees": {
+      "open_general": {
+        "tuition_fee": 69565,
+        "development_fee": 10435,
+        "exam_and_other_fees": 4500,
+        "total_payable_annual": 84500,
+        "concession_percentage": 0,
+        "applicable_condition": "Open / General category PG students."
+      },
+      "ebc_and_ews": {
+        "tuition_fee": 34782,
+        "development_fee": 10435,
+        "exam_and_other_fees": 4500,
+        "total_payable_annual": 49717,
+        "concession_percentage": 50,
+        "applicable_condition": "CAP-admitted with Tahsildar Income Certificate <= Rs. 8,00,000."
+      },
+      "obc": {
+        "tuition_fee": 34782,
+        "development_fee": 10435,
+        "exam_and_other_fees": 4500,
+        "total_payable_annual": 49717,
+        "concession_percentage": 50,
+        "applicable_condition": "CAP-admitted OBC category candidates with valid Caste, Validity and NCL."
+      },
+      "sc_st": {
+        "tuition_fee": 0,
+        "development_fee": 0,
+        "exam_and_other_fees": 4500,
+        "total_payable_annual": 4500,
+        "concession_percentage": 100,
+        "applicable_condition": "SC/ST candidates through CAP with valid documents."
+      }
+    },
+    "admission_quota": "CAP (80%) / Institutional Quota (20%)",
+    "payment_frequency": "Annual payment at the time of admission; semester installments allowed upon written approval from Accounts Office",
+    "payment_modes": [
+      "Online Net Banking / UPI via DKTE ERP Parent Portal",
+      "Debit Card / Credit Card swipe at College Accounts Counter",
+      "Demand Draft in favor of 'Director, DKTE Society's TEI, Ichalkaranji' payable at Ichalkaranji"
+    ],
+    "source_id": "d7d0568b-8a13-5c2c-a17a-d8e1147a6f7d",
+    "source_url": "https://www.dkte.ac.in/fee-structure.php",
+    "last_verified": "2024-08-15",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "fee_id": "e179aacc-dbe8-5225-99e5-c6f641921dcf",
+    "course_id": "904bf8f5-da30-5b54-a10a-13cea9e1a969",
+    "academic_year": "2024-2025",
+    "tuition_fees": 39130,
+    "development_fees": 5870,
+    "examination_fees": 2000,
+    "other_annual_fees": 500,
+    "caution_money_deposit_one_time": 500,
+    "total_annual_fee_open": 47500,
+    "total_programme_cost_open": 143000,
+    "hostel_fees_annual": 25000,
+    "mess_charges_annual": 33000,
+    "category_wise_fees": {
+      "open_general": {
+        "tuition_fee": 39130,
+        "development_fee": 5870,
+        "exam_and_other_fees": 2500,
+        "total_payable_annual": 47500,
+        "concession_percentage": 0,
+        "applicable_condition": "Open / General category polytechnic students."
+      },
+      "ebc_and_ews": {
+        "tuition_fee": 19565,
+        "development_fee": 5870,
+        "exam_and_other_fees": 2500,
+        "total_payable_annual": 27935,
+        "concession_percentage": 50,
+        "applicable_condition": "CAP-admitted Open diploma candidates with family income <= Rs. 8 Lakhs."
+      },
+      "sc_st_vjnt": {
+        "tuition_fee": 0,
+        "development_fee": 0,
+        "exam_and_other_fees": 2500,
+        "total_payable_annual": 2500,
+        "concession_percentage": 100,
+        "applicable_condition": "Reserved category students via CAP."
+      }
+    },
+    "admission_quota": "CAP (80%) / Institutional Quota (20%)",
+    "payment_frequency": "Annual payment at the time of admission; semester installments allowed upon written approval from Accounts Office",
+    "payment_modes": [
+      "Online Net Banking / UPI via DKTE ERP Parent Portal",
+      "Debit Card / Credit Card swipe at College Accounts Counter",
+      "Demand Draft in favor of 'Director, DKTE Society's TEI, Ichalkaranji' payable at Ichalkaranji"
+    ],
+    "source_id": "d7d0568b-8a13-5c2c-a17a-d8e1147a6f7d",
+    "source_url": "https://www.dkte.ac.in/fee-structure.php",
+    "last_verified": "2024-08-15",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "fee_id": "dfcfd0d4-a579-5a68-8c16-cc5a05e64bd3",
+    "course_id": "11857c64-d12c-536b-9c94-f571dddf9ac3",
+    "academic_year": "2024-2025",
+    "tuition_fees": 39130,
+    "development_fees": 5870,
+    "examination_fees": 2000,
+    "other_annual_fees": 500,
+    "caution_money_deposit_one_time": 500,
+    "total_annual_fee_open": 47500,
+    "total_programme_cost_open": 143000,
+    "hostel_fees_annual": 25000,
+    "mess_charges_annual": 33000,
+    "category_wise_fees": {
+      "open_general": {
+        "tuition_fee": 39130,
+        "development_fee": 5870,
+        "exam_and_other_fees": 2500,
+        "total_payable_annual": 47500,
+        "concession_percentage": 0,
+        "applicable_condition": "Open / General category polytechnic students."
+      },
+      "ebc_and_ews": {
+        "tuition_fee": 19565,
+        "development_fee": 5870,
+        "exam_and_other_fees": 2500,
+        "total_payable_annual": 27935,
+        "concession_percentage": 50,
+        "applicable_condition": "CAP-admitted Open diploma candidates with family income <= Rs. 8 Lakhs."
+      },
+      "sc_st_vjnt": {
+        "tuition_fee": 0,
+        "development_fee": 0,
+        "exam_and_other_fees": 2500,
+        "total_payable_annual": 2500,
+        "concession_percentage": 100,
+        "applicable_condition": "Reserved category students via CAP."
+      }
+    },
+    "admission_quota": "CAP (80%) / Institutional Quota (20%)",
+    "payment_frequency": "Annual payment at the time of admission; semester installments allowed upon written approval from Accounts Office",
+    "payment_modes": [
+      "Online Net Banking / UPI via DKTE ERP Parent Portal",
+      "Debit Card / Credit Card swipe at College Accounts Counter",
+      "Demand Draft in favor of 'Director, DKTE Society's TEI, Ichalkaranji' payable at Ichalkaranji"
+    ],
+    "source_id": "d7d0568b-8a13-5c2c-a17a-d8e1147a6f7d",
+    "source_url": "https://www.dkte.ac.in/fee-structure.php",
+    "last_verified": "2024-08-15",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "fee_id": "6c7d8055-8c68-5767-8f69-a11c9b88132b",
+    "course_id": "3160246d-e121-5636-9876-2e4dbc518b65",
+    "academic_year": "2024-2025",
+    "tuition_fees": 39130,
+    "development_fees": 5870,
+    "examination_fees": 2000,
+    "other_annual_fees": 500,
+    "caution_money_deposit_one_time": 500,
+    "total_annual_fee_open": 47500,
+    "total_programme_cost_open": 143000,
+    "hostel_fees_annual": 25000,
+    "mess_charges_annual": 33000,
+    "category_wise_fees": {
+      "open_general": {
+        "tuition_fee": 39130,
+        "development_fee": 5870,
+        "exam_and_other_fees": 2500,
+        "total_payable_annual": 47500,
+        "concession_percentage": 0,
+        "applicable_condition": "Open / General category polytechnic students."
+      },
+      "ebc_and_ews": {
+        "tuition_fee": 19565,
+        "development_fee": 5870,
+        "exam_and_other_fees": 2500,
+        "total_payable_annual": 27935,
+        "concession_percentage": 50,
+        "applicable_condition": "CAP-admitted Open diploma candidates with family income <= Rs. 8 Lakhs."
+      },
+      "sc_st_vjnt": {
+        "tuition_fee": 0,
+        "development_fee": 0,
+        "exam_and_other_fees": 2500,
+        "total_payable_annual": 2500,
+        "concession_percentage": 100,
+        "applicable_condition": "Reserved category students via CAP."
+      }
+    },
+    "admission_quota": "CAP (80%) / Institutional Quota (20%)",
+    "payment_frequency": "Annual payment at the time of admission; semester installments allowed upon written approval from Accounts Office",
+    "payment_modes": [
+      "Online Net Banking / UPI via DKTE ERP Parent Portal",
+      "Debit Card / Credit Card swipe at College Accounts Counter",
+      "Demand Draft in favor of 'Director, DKTE Society's TEI, Ichalkaranji' payable at Ichalkaranji"
+    ],
+    "source_id": "d7d0568b-8a13-5c2c-a17a-d8e1147a6f7d",
+    "source_url": "https://www.dkte.ac.in/fee-structure.php",
+    "last_verified": "2024-08-15",
+    "verification_status": "VERIFIED"
+  }
+]

@@ -1,0 +1,136 @@
+[
+  {
+    "rule_id": "0074980b-2d0a-58f1-95e7-e92a54345f11",
+    "college_id": "aaf3095e-e6cb-5314-84b6-e1606b9254f8",
+    "degree_level": "Undergraduate",
+    "applicable_course_id": null,
+    "rule_title": "First Year B.Tech Eligibility and Admission Routes",
+    "eligibility_criteria": "Passed HSC (Std. XII) Science Examination of Maharashtra State Board or equivalent with Physics and Mathematics as compulsory subjects along with one of Chemistry, Biotechnology, Biology, Computer Science, Information Technology, or Technical Vocational subjects.",
+    "minimum_marks": "At least 45% marks in PCM/specified subjects taken together for General category; at least 40% marks for Backward Class categories, Economically Weaker Section (EWS), and Persons with Disability (PwD) candidates belonging to Maharashtra State only.",
+    "required_subjects": [
+      "Physics (Compulsory)",
+      "Mathematics (Compulsory)",
+      "One of: Chemistry / Biotechnology / Biology / Computer Science / Technical Vocational"
+    ],
+    "entrance_exams": [
+      "MHT-CET (PCM) conducted by State CET Cell Maharashtra (Mandatory for Maharashtra State Seats)",
+      "JEE Main Paper-1 conducted by NTA (Eligible for All India Quota & Maharashtra State Seats)"
+    ],
+    "admission_routes": [
+      "Centralized Admission Process (CAP) Maharashtra State Seats (65% of approved intake)",
+      "Centralized Admission Process (CAP) All India Seats (15% of approved intake based on JEE Main / MHT-CET)",
+      "Institute Level / Management Quota (20% of approved intake - merit based on MHT-CET/JEE Main scores)",
+      "Tuition Fee Waiver Scheme (TFWS - 5% Supernumerary seats over and above sanctioned intake)",
+      "EWS Quota (10% Supernumerary seats over and above sanctioned intake)"
+    ],
+    "course_specific_requirements": "Candidates must possess a non-zero positive score in MHT-CET (PCM) or JEE Main Paper-1. Appearing in either exam is strictly mandatory.",
+    "counselling_authority": "State Common Entrance Test Cell, Maharashtra State",
+    "source_id": "3f0160ee-f5a5-5fe2-9730-adffd5e65752",
+    "source_url": "https://www.dkte.ac.in/first-year-degree-admission-eligibility.php",
+    "last_verified": "2024-08-15",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "rule_id": "21dc579b-ccc6-5bb4-84fa-6d1e21d11ef0",
+    "college_id": "aaf3095e-e6cb-5314-84b6-e1606b9254f8",
+    "degree_level": "Undergraduate",
+    "applicable_course_id": null,
+    "rule_title": "Direct Second Year B.Tech (Lateral Entry) Admission Rules",
+    "eligibility_criteria": "Passed Diploma in Engineering and Technology with at least 45% marks (40% for Backward Class categories, EWS and PwD candidates of Maharashtra State) from an AICTE or MSBTE approved institution. OR Passed B.Sc. Degree from a recognized UGC institution with at least 45% marks (40% for reserved) and passed Std. XII with Mathematics as a subject.",
+    "minimum_marks": "45% aggregate in Diploma / B.Sc. (40% for Maharashtra Reserved Categories).",
+    "required_subjects": [
+      "Diploma in relevant branch of Engineering/Technology",
+      "Or B.Sc. with Mathematics at 10+2 level"
+    ],
+    "entrance_exams": [
+      "Diploma aggregate percentage merit list processed through Maharashtra State CET Cell CAP Rounds."
+    ],
+    "admission_routes": [
+      "CAP Rounds conducted by Maharashtra State CET Cell (100% of lateral entry seats + vacant first year seats)"
+    ],
+    "course_specific_requirements": "Equivalence certificate from MSBTE Mumbai required if diploma was pursued from outside Maharashtra State.",
+    "counselling_authority": "State Common Entrance Test Cell, Maharashtra State",
+    "source_id": "3f0160ee-f5a5-5fe2-9730-adffd5e65752",
+    "source_url": "https://www.dkte.ac.in/first-year-degree-admission-eligibility.php",
+    "last_verified": "2024-08-15",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "rule_id": "e5e2ad76-ff60-5e31-a3e4-9b22b0ef801c",
+    "college_id": "aaf3095e-e6cb-5314-84b6-e1606b9254f8",
+    "degree_level": "Postgraduate",
+    "applicable_course_id": null,
+    "rule_title": "First Year M.Tech Admission Criteria and Eligibility",
+    "eligibility_criteria": "Passed Bachelor Degree in relevant field of Engineering and Technology from AICTE or Central/State Government approved institution with at least 50% marks (45% for Backward class categories, EWS, and PwD candidates of Maharashtra State).",
+    "minimum_marks": "50% marks in qualifying B.E. / B.Tech (45% for Maharashtra Reserved Categories).",
+    "required_subjects": [
+      "B.E. / B.Tech in appropriate discipline or equivalent"
+    ],
+    "entrance_exams": [
+      "GATE (Graduate Aptitude Test in Engineering) with non-zero positive score (Mandatory for Sponsored / Non-sponsored regular seats)",
+      "Sponsored candidates require minimum 2 years full-time work experience in registered firm/industry/education institute"
+    ],
+    "admission_routes": [
+      "CAP Rounds conducted by Maharashtra State CET Cell",
+      "Institute Level / Sponsored Quota merit rounds"
+    ],
+    "course_specific_requirements": "Valid GATE qualified candidates are eligible for AICTE PG Scholarship (Rs. 12,400/month).",
+    "counselling_authority": "State Common Entrance Test Cell, Maharashtra State",
+    "source_id": "49807033-8ec4-51dd-bde6-8b0debdc68c7",
+    "source_url": "https://www.dkte.ac.in/postgraduate-courses.php",
+    "last_verified": "2024-08-15",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "rule_id": "2aafc634-97d3-5ad8-9b0f-948637666b97",
+    "college_id": "aaf3095e-e6cb-5314-84b6-e1606b9254f8",
+    "degree_level": "Postgraduate",
+    "applicable_course_id": "de4e5c83-c536-5090-b5cd-16f85b1bdb33",
+    "rule_title": "Master of Business Administration (MBA) Admission Rules",
+    "eligibility_criteria": "Passed minimum 3-year Bachelor's Degree in any discipline from a recognized University with at least 50% marks in aggregate (45% for Backward class categories, EWS, and PwD belonging to Maharashtra State).",
+    "minimum_marks": "50% in graduation (45% for Maharashtra Reserved Categories).",
+    "required_subjects": [
+      "Any recognized undergraduate Bachelor degree (B.A, B.Com, B.Sc, B.E/B.Tech, BBA, BCA, etc.)"
+    ],
+    "entrance_exams": [
+      "MAH-MBA-CET conducted by Maharashtra State CET Cell",
+      "CAT / CMAT / XAT / ATMA / MAT (Recognized under All India Quota)"
+    ],
+    "admission_routes": [
+      "CAP Rounds conducted by Maharashtra State CET Cell (85% seats)",
+      "Institute Level Quota (15% seats)"
+    ],
+    "course_specific_requirements": "Candidate must obtain non-zero positive score in MAH-MBA-CET or equivalent entrance exam.",
+    "counselling_authority": "State Common Entrance Test Cell, Maharashtra State",
+    "source_id": "49807033-8ec4-51dd-bde6-8b0debdc68c7",
+    "source_url": "https://www.dkte.ac.in/postgraduate-courses.php",
+    "last_verified": "2024-08-15",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "rule_id": "76b6518f-3d83-5d00-a5ce-f8a8b3589476",
+    "college_id": "aaf3095e-e6cb-5314-84b6-e1606b9254f8",
+    "degree_level": "Diploma",
+    "applicable_course_id": null,
+    "rule_title": "First Year Polytechnic Diploma Admission Rules (DTE 6225)",
+    "eligibility_criteria": "Passed Secondary School Certificate (SSC / Std. X) Examination of Maharashtra State Board of Secondary and Higher Secondary Education or its equivalent with at least 35% aggregate marks.",
+    "minimum_marks": "35% aggregate marks in 10th Standard.",
+    "required_subjects": [
+      "General Science / Science and Technology",
+      "Mathematics"
+    ],
+    "entrance_exams": [
+      "None (Merit based purely on Class 10th SSC board marks)"
+    ],
+    "admission_routes": [
+      "Centralized Admission Process (CAP) conducted by DTE Maharashtra",
+      "Institute Level Quota (20%)"
+    ],
+    "course_specific_requirements": "Candidates must participate in DTE Maharashtra Centralized Admission Process for Diploma Engineering.",
+    "counselling_authority": "Directorate of Technical Education (DTE), Maharashtra State",
+    "source_id": "82e445d7-9ab5-55d5-bbd8-365b3affa345",
+    "source_url": "https://www.dkte.ac.in/",
+    "last_verified": "2024-08-15",
+    "verification_status": "VERIFIED"
+  }
+]

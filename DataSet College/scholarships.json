@@ -1,0 +1,150 @@
+[
+  {
+    "scholarship_id": "15124144-7f83-5061-8443-361b933e2020",
+    "scholarship_name": "Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Yojna (EBC)",
+    "provider": "Directorate of Technical Education (DTE), Government of Maharashtra",
+    "eligibility": "Students admitted under General / Open category through Centralized Admission Process (CAP) in approved professional courses with family income <= Rs. 8,00,000.",
+    "benefits": "50% concession in Tuition Fee and 50% concession in Exam Fee sanctioned by Fee Regulating Authority (FRA).",
+    "income_criteria": "Annual family income must not exceed Rs. 8,00,000 as certified by Tahsildar / Sub-Divisional Officer.",
+    "application_url": "https://mahadbt.maharashtra.gov.in/",
+    "required_documents": [
+      "Income Certificate issued by Tahsildar (Current Financial Year)",
+      "CAP Seat Allotment Letter",
+      "Maharashtra State Domicile Certificate",
+      "SSC & HSC Mark Sheets",
+      "Ration Card / Family Declaration",
+      "Aadhaar Card linked with Bank Account"
+    ],
+    "deadline": "Typically December 31 of academic year, subject to MahaDBT portal notifications",
+    "source_id": "34ee8d8d-78cb-5335-8bce-c130eb6be3d7",
+    "source_url": "https://mahadbt.maharashtra.gov.in/",
+    "last_verified": "2024-08-15",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "scholarship_id": "a3c6b68e-4a0c-5b81-84cd-cb95cfc3311f",
+    "scholarship_name": "Maharashtra Government Free Higher Education Scheme for Girls (Girl Child Tuition Fee Waiver)",
+    "provider": "Higher and Technical Education Department, Government of Maharashtra",
+    "eligibility": "Female students admitted through CAP in recognized engineering/polytechnic colleges whose family annual income is <= Rs. 8,00,000.",
+    "benefits": "100% Tuition Fee waiver reimbursed directly by Maharashtra State Government.",
+    "income_criteria": "Annual family income must be less than or equal to Rs. 8,00,000.",
+    "application_url": "https://mahadbt.maharashtra.gov.in/",
+    "required_documents": [
+      "Tahsildar Income Certificate",
+      "CAP Allotment Letter",
+      "Maharashtra Domicile Certificate",
+      "Caste Certificate (if applicable)",
+      "Aadhaar linked Bank Passbook"
+    ],
+    "deadline": "Aligned with MahaDBT portal application windows",
+    "source_id": "34ee8d8d-78cb-5335-8bce-c130eb6be3d7",
+    "source_url": "https://mahadbt.maharashtra.gov.in/",
+    "last_verified": "2024-08-15",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "scholarship_id": "96aa7f56-eb92-55c7-9457-b49fa056c967",
+    "scholarship_name": "Dr. Panjabrao Deshmukh Vastigruh Nirvah Bhatta Yojna (Hostel Maintenance Allowance)",
+    "provider": "Directorate of Technical Education (DTE), Government of Maharashtra",
+    "eligibility": "Children of registered marginal farmers / registered construction laborers / general EBC students residing in recognized hostels or registered paying guest accommodation outside their home taluka/district.",
+    "benefits": "Hostel allowance up to Rs. 30,000 per annum (for Mumbai/Pune/Nagpur) and up to Rs. 20,000 per annum for other areas (Kolhapur/Ichalkaranji) for 10 months.",
+    "income_criteria": "Parental income <= Rs. 8,00,000 (relaxed conditions for registered marginal farmers / construction workers).",
+    "application_url": "https://mahadbt.maharashtra.gov.in/",
+    "required_documents": [
+      "Hostel Admission Receipt / Rent Agreement with Registered PG",
+      "Tahsildar Income Certificate",
+      "Farmer / Construction Laborer Registration Card (if claiming special quota)",
+      "College Bonafide Certificate",
+      "Aadhaar Card"
+    ],
+    "deadline": "Aligned with MahaDBT portal submission deadlines",
+    "source_id": "34ee8d8d-78cb-5335-8bce-c130eb6be3d7",
+    "source_url": "https://mahadbt.maharashtra.gov.in/",
+    "last_verified": "2024-08-15",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "scholarship_id": "a552b987-e58a-51e9-9358-b5ae1b231c13",
+    "scholarship_name": "Government of India Post-Matric Scholarship for Scheduled Caste (SC) Students",
+    "provider": "Social Justice and Special Assistance Department, Maharashtra State",
+    "eligibility": "Students belonging to Scheduled Caste (SC) / Neo-Buddhist admitted through CAP.",
+    "benefits": "100% Tuition Fee and 100% Development Fee waiver reimbursed by government, plus monthly maintenance allowance.",
+    "income_criteria": "Parental annual income <= Rs. 2,50,000 for full scholarship; Freeship available for income above Rs. 2,50,000.",
+    "application_url": "https://mahadbt.maharashtra.gov.in/",
+    "required_documents": [
+      "Caste Certificate issued by Competent Authority of Maharashtra",
+      "Caste Validity Certificate (Mandatory)",
+      "Income Certificate / Form 16",
+      "CAP Allotment Letter",
+      "Aadhaar linked Bank Account",
+      "Ration Card"
+    ],
+    "deadline": "As notified on MahaDBT portal",
+    "source_id": "34ee8d8d-78cb-5335-8bce-c130eb6be3d7",
+    "source_url": "https://mahadbt.maharashtra.gov.in/",
+    "last_verified": "2024-08-15",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "scholarship_id": "2321566a-c508-5f71-a95d-630b34061d44",
+    "scholarship_name": "Post-Matric Scholarship / Tuition Fees and Examination Fees for OBC Students",
+    "provider": "VJNT, OBC and SBC Welfare Department, Maharashtra State",
+    "eligibility": "OBC category students admitted through Centralized Admission Process.",
+    "benefits": "50% Tuition Fee waiver reimbursed by government.",
+    "income_criteria": "Annual family income <= Rs. 1,50,000 for scholarship; Income between Rs. 1,50,001 and Rs. 8,00,000 eligible for Freeship.",
+    "application_url": "https://mahadbt.maharashtra.gov.in/",
+    "required_documents": [
+      "Caste Certificate",
+      "Caste Validity Certificate",
+      "Non-Creamy Layer (NCL) Certificate valid for current financial year",
+      "Tahsildar Income Certificate",
+      "CAP Allotment Letter",
+      "Bank Passbook"
+    ],
+    "deadline": "MahaDBT announced dates",
+    "source_id": "34ee8d8d-78cb-5335-8bce-c130eb6be3d7",
+    "source_url": "https://mahadbt.maharashtra.gov.in/",
+    "last_verified": "2024-08-15",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "scholarship_id": "06b3acd3-f326-5c55-b26e-8314426395ce",
+    "scholarship_name": "Tuition Fee Waiver Scheme (TFWS)",
+    "provider": "AICTE New Delhi & Directorate of Technical Education (DTE) Maharashtra",
+    "eligibility": "Merit-based admission in TFWS quota seats (up to 5% supernumerary seats in each branch) with parental annual income <= Rs. 8,00,000.",
+    "benefits": "100% Tuition Fee waiver throughout the 4-year degree course. Student pays only Development Fee and Examination/Other fees.",
+    "income_criteria": "Annual family income less than Rs. 8,00,000 from all sources.",
+    "application_url": "https://cetcell.mahacet.org/",
+    "required_documents": [
+      "Income Certificate from Tahsildar submitted during CAP registration",
+      "CAP Option Form opting for 'TFWS' choice code (Code ending with 'T')",
+      "CAP Seat Allotment Letter confirming TFWS allotment"
+    ],
+    "deadline": "Applied simultaneously with CAP registration form",
+    "source_id": "cde93225-d7f3-5e80-b78e-9e6287181bed",
+    "source_url": "https://cetcell.mahacet.org/",
+    "last_verified": "2024-08-15",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "scholarship_id": "c33ab91d-8493-5b2f-a9de-a5b1b24ade9a",
+    "scholarship_name": "State Government Minority Scholarship for Professional Courses",
+    "provider": "Minority Development Department, Government of Maharashtra",
+    "eligibility": "Students belonging to notified minority communities (Muslim, Christian, Buddhist, Jain, Parsi, Sikh, Jewish) admitted in professional technical courses.",
+    "benefits": "Financial assistance of up to Rs. 50,000 per annum towards tuition and course fees.",
+    "income_criteria": "Annual family income must not exceed Rs. 8,00,000.",
+    "application_url": "https://mahadbt.maharashtra.gov.in/",
+    "required_documents": [
+      "Self-declaration / Minority Certificate of community",
+      "Tahsildar Income Certificate",
+      "Domicile Certificate of Maharashtra",
+      "College Fee Receipt & Bonafide Certificate",
+      "Aadhaar Card"
+    ],
+    "deadline": "As notified on MahaDBT portal",
+    "source_id": "34ee8d8d-78cb-5335-8bce-c130eb6be3d7",
+    "source_url": "https://mahadbt.maharashtra.gov.in/",
+    "last_verified": "2024-08-15",
+    "verification_status": "VERIFIED"
+  }
+]
