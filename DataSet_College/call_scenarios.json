@@ -1,0 +1,211 @@
+[
+  {
+    "scenario_id": "5a81a85e-44e2-5161-8db7-30e1bcd45019",
+    "scenario_name": "OBC Parent Enquiring About B.Tech CSE Fees and Hostel",
+    "caller_type": "Parent",
+    "caller_persona": "Father of a 12th pass student from Sangli who scored 88 percentile in MHT-CET, seeking clear fee numbers for OBC category.",
+    "caller_query": "Namaskar, my son scored 88 percentile in MHT-CET and wants to take Computer Science at DKTE. We are from OBC category with 4 Lakh income. How much annual fees will we need to pay, and is hostel available?",
+    "detected_intent": "inquire_category_fees_and_hostel",
+    "extracted_entities": {
+      "course": "Computer Science and Engineering",
+      "category": "OBC",
+      "income": 400000,
+      "exam": "MHT-CET",
+      "score_percentile": 88,
+      "facility_interest": "Hostel"
+    },
+    "retrieved_information": {
+      "course_name": "B.Tech in Computer Science and Engineering",
+      "course_intake": 120,
+      "tuition_fee_full": 105217,
+      "tuition_waiver": "50% Govt Reimbursement under MahaDBT",
+      "net_tuition_payable": 52609,
+      "development_fee": 15783,
+      "exam_other_fee": 4000,
+      "total_payable_annual": 72392,
+      "hostel_annual_fee": 25000,
+      "mess_annual_fee": 33000,
+      "hostel_availability": "Boys hostel available with 50-student capacity in twin/triple sharing"
+    },
+    "expected_response": "Namaskar! Congratulations on your son's 88 percentile. For B.Tech in Computer Science under the OBC category with income below 8 Lakhs, the government provides a 50% tuition waiver through MahaDBT. Your net annual college fee will be approximately 72,400 rupees. For boys accommodation, our hostel fee is 25,000 rupees per year, and the annual mess charges are around 33,000 rupees for complete daily vegetarian meals. Please make sure your son has an updated Caste Validity, Non-Creamy Layer certificate, and Tahsildar Income certificate ready for CAP reporting.",
+    "human_handoff_conditions": [
+      "Caller asks for fee installment payment plans or special fee waivers.",
+      "Caller requests specific seat reservation in boys hostel prior to CAP allotment.",
+      "Caller disputes category document validity."
+    ],
+    "handoff_department": "Accounts & Admissions Office",
+    "handoff_phone": "+91 7083253672",
+    "fallback_behavior": "If specific room configuration or hostel seat vacancies for the exact batch date are unverified, state the standard capacity (50 seats) and connect the caller to the Hostel Rector office."
+  },
+  {
+    "scenario_id": "777c0de0-67e8-5635-b554-360aeb47e96f",
+    "scenario_name": "Female Aspirant Asking About Maharashtra Free Higher Education Scheme",
+    "caller_type": "Student",
+    "caller_persona": "Female student from Kolhapur interested in AI & Data Science asking if she can avail free education.",
+    "caller_query": "Hello ma'am, I am a girl student and I want to join AI and Data Science. My family's income is 5.5 Lakhs. I heard girls get free engineering education in Maharashtra. Is this scheme valid at DKTE and how much do I actually have to pay?",
+    "detected_intent": "inquire_girls_free_education_scheme",
+    "extracted_entities": {
+      "course": "Artificial Intelligence (AI) and Data Science",
+      "gender": "Female",
+      "parental_income": 550000,
+      "scheme": "Maharashtra Free Higher Education for Girls"
+    },
+    "retrieved_information": {
+      "scheme_name": "Maharashtra Government Free Higher Education Scheme for Girls",
+      "eligibility": "Female candidates admitted through CAP with family income <= Rs. 8 Lakhs",
+      "tuition_fee": 105217,
+      "tuition_waiver": "100% (Rs. 105,217 waived)",
+      "development_fee_payable": 15783,
+      "exam_other_fee": 4000,
+      "net_payable_annual": 19783
+    },
+    "expected_response": "Hello! Yes, absolutely. Under the Maharashtra Government's Free Higher Education policy for girls, if you take admission through the CAP round and your family income is within 8 Lakh rupees, 100% of your tuition fee is waived. At DKTE, you won't have to pay the 1,05,217 rupees tuition fee. You will only pay the development fee and examination charges, which come to approximately 19,800 rupees per year. All you need is your CAP allotment letter and a valid Tahsildar Income Certificate to apply on the MahaDBT portal upon admission.",
+    "human_handoff_conditions": [
+      "Caller asks if the scheme applies to Institute Level or Management quota seats (Note: It only applies to CAP round admissions).",
+      "Caller has an income certificate slightly above 8 Lakhs."
+    ],
+    "handoff_department": "Admissions Office (Dr. A. K. Ghatage)",
+    "handoff_phone": "+91 7083253672",
+    "fallback_behavior": "Clearly emphasize that the 100% tuition waiver requires CAP round admission and an authentic Tahsildar income certificate."
+  },
+  {
+    "scenario_id": "0bca3e8e-e12c-5793-8e0f-575802dc6912",
+    "scenario_name": "Diploma Graduate Inquiring About Direct Second Year CSE Admission",
+    "caller_type": "Student",
+    "caller_persona": "Mechanical diploma graduate with 84% marks asking if he can switch to Computer Science in Direct Second Year.",
+    "caller_query": "Hi, I just finished my Diploma in Mechanical Engineering with 84% from Solapur Polytechnic. Can I get direct second year admission into Computer Science at DKTE, and what is the process?",
+    "detected_intent": "inquire_direct_second_year_branch_change",
+    "extracted_entities": {
+      "current_qualification": "Diploma in Mechanical Engineering",
+      "diploma_percentage": 84,
+      "target_degree": "Direct Second Year B.Tech",
+      "target_branch": "Computer Science and Engineering"
+    },
+    "retrieved_information": {
+      "eligibility": "Minimum 45% aggregate in Diploma (40% reserved).",
+      "admission_process": "100% Centralized Admission Process (CAP) conducted by State CET Cell.",
+      "branch_change_policy": "Under AICTE and DTE Maharashtra guidelines, diploma holders in any engineering branch are eligible to apply for allied/cross branches subject to vacancy and group-wise CAP merit."
+    },
+    "expected_response": "Hello! Yes, under DTE Maharashtra rules, with your 84% diploma aggregate you easily fulfill the 45% minimum criteria. You are eligible to apply for Direct Second Year B.Tech in Computer Science through the centralized CAP rounds. All DSE seats are allotted strictly through the State CET Cell merit list based on your final diploma percentage. You should register on the CET Cell portal with DKTE Choice Code 622224210. Due to high demand for Computer Science, seat allotment will depend on the cut-off rank in your category.",
+    "human_handoff_conditions": [
+      "Caller asks for spot round vacancy counts or direct offline admission in DSE before CAP concludes.",
+      "Caller completed diploma from outside Maharashtra and needs MSBTE equivalence verification."
+    ],
+    "handoff_department": "Student Section (Mr. Sourabh Nandgave)",
+    "handoff_phone": "+91 9637969517",
+    "fallback_behavior": "Clarify that lateral entry seats depend strictly on DTE CAP seat matrix vacancies and cannot be reserved informally."
+  },
+  {
+    "scenario_id": "1e2d8553-7508-5f6c-bffd-a28ee1391cb7",
+    "scenario_name": "Anxious Mother Enquiring About Girls Hostel Safety, Mess and In-Time",
+    "caller_type": "Parent",
+    "caller_persona": "Mother from Pune inquiring about accommodation safety for her daughter joining Textile Chemistry.",
+    "caller_query": "Namaste, we are from Pune and my daughter got allotted Textile Chemistry at DKTE. I am worried about hostel security. Does the college have a girls hostel on campus, what time is the curfew, and how is the food?",
+    "detected_intent": "inquire_girls_hostel_security_and_food",
+    "extracted_entities": {
+      "allotted_branch": "Textile Chemistry",
+      "caller_origin": "Pune",
+      "facility": "Girls Hostel",
+      "concerns": [
+        "Security",
+        "Curfew",
+        "Food Quality"
+      ]
+    },
+    "retrieved_information": {
+      "capacity": 324,
+      "security": "24x7 security guards, full CCTV surveillance, biometric access, resident lady wardens",
+      "curfew_time": "Strict 8:00 PM in-time",
+      "mess": "Hygienic pure-vegetarian breakfast, lunch, tea, and dinner inside the hostel premises",
+      "hostel_fee": 25000,
+      "mess_fee": 33000
+    },
+    "expected_response": "Namaste! You can be completely assured about your daughter's safety. DKTE has a dedicated on-campus Girls Hostel accommodating over 320 students with round-the-clock security, CCTV surveillance, biometric entry, and resident female wardens. We have a strict 8:00 PM evening in-time rule for student safety. The hostel houses its own clean, pure-vegetarian dining hall serving breakfast, lunch, evening tea, and dinner. The annual hostel fee is 25,000 rupees, and the annual mess fee is around 33,000 rupees. You are also welcome to visit the hostel campus during your reporting visit.",
+    "human_handoff_conditions": [
+      "Caller asks for special curfew exemptions or permission to leave campus for private coaching.",
+      "Caller requests single-occupancy rooms (which are not available in the girls hostel)."
+    ],
+    "handoff_department": "Hostel Rector Office",
+    "handoff_phone": "0230-2421300",
+    "fallback_behavior": "Highlight standard 3-seater and 4-seater accommodation policies and direct specialized room allocation queries to the Chief Warden."
+  },
+  {
+    "scenario_id": "99ec150f-f628-5962-844e-baaac2064f9e",
+    "scenario_name": "OBC Student Missing Caste Validity Certificate Before CAP Deadline",
+    "caller_type": "Student",
+    "caller_persona": "Student from Satara who received an allotment in Mechanical Engineering under OBC quota but has only an application receipt for Caste Validity.",
+    "caller_query": "Sir, I got a seat in Mechanical Engineering under OBC category, but my Caste Validity Certificate has not arrived yet from the committee. I only have the application receipt. Can I still take admission, or will my seat get cancelled?",
+    "detected_intent": "resolve_missing_caste_validity",
+    "extracted_entities": {
+      "course": "Mechanical Engineering",
+      "category": "OBC",
+      "document_status": "Only Application Receipt available, Original Validity pending"
+    },
+    "retrieved_information": {
+      "rule": "Under Maharashtra State CET Cell guidelines, producing original Caste Validity Certificate is mandatory at final admission reporting.",
+      "temporary_provision": "During initial CAP registration, receipt is accepted with an undertaking; however, at the time of final reporting at the institute, the original Validity must be uploaded/submitted, otherwise seat is converted to Open category or cancelled."
+    },
+    "expected_response": "This is an important requirement. As per Maharashtra State CET Cell rules, having only the validity application receipt is acceptable during initial registration, but at the time of physical reporting to DKTE, submitting the original Caste Validity Certificate is mandatory. If you cannot produce the validity certificate within the official window provided by the CET Cell, your admission cannot be confirmed under OBC and will be converted to the Open category, requiring full Open category fees. Please urgently contact our Admissions Help Desk with your scrutiny slip so our officers can verify your exact committee status.",
+    "human_handoff_conditions": [
+      "Urgent document verification problem that may result in seat forfeiture.",
+      "Caller needs assistance drafting an undertaking proforma for the scrutiny committee."
+    ],
+    "handoff_department": "Admissions Scrutiny Cell (Mr. Rohit Potdar)",
+    "handoff_phone": "+91 7385666811",
+    "fallback_behavior": "Immediately offer warm handoff to Mr. Rohit Potdar (+91 7385666811) or Chief Admission In-charge Dr. Ghatage (+91 7083253672) so the student does not lose their seat."
+  },
+  {
+    "scenario_id": "904e1278-e5b4-52f2-bd42-b31bbbe676a5",
+    "scenario_name": "Parent Inquiring About Placement Packages and IT Recruiters",
+    "caller_type": "Parent",
+    "caller_persona": "Parent comparing DKTE with colleges in Pune, seeking realistic average and highest packages for Computer Science.",
+    "caller_query": "Good afternoon, we are deciding between colleges in Pune and DKTE for Computer Engineering. What was your placement percentage last year, which companies visited, and what is the realistic average package for a CSE student?",
+    "detected_intent": "inquire_placement_stats_and_companies",
+    "extracted_entities": {
+      "course": "Computer Science and Engineering",
+      "comparison_context": "Comparing with Pune institutes",
+      "metrics": [
+        "Placement percentage",
+        "Average package",
+        "Recruiters"
+      ]
+    },
+    "retrieved_information": {
+      "overall_placement_rate": "82.94% (564 students placed)",
+      "average_package": "4.85 LPA across branches",
+      "highest_package": "16.50 LPA (campus drives up to 45 LPA in specialized tech drives)",
+      "recruiters": "TCS, Infosys, Cognizant, Capgemini, Persistent Systems, Tech Mahindra, KPIT, L&T"
+    },
+    "expected_response": "Good afternoon! DKTE has a proven 40-year track record with exceptional placements. For the 2023-2024 batch, our overall placement rate was 82.94%, with 564 students placed. For Computer Science, the average package ranges between 4.5 and 5.5 Lakhs per year, with regular campus highest offers reaching 16.5 Lakhs and specialized off-campus tech drives reaching up to 45 Lakhs. Over 60 top recruiters visit us every year, including TCS, Infosys, Cognizant, Capgemini, Persistent Systems, and Tech Mahindra. Our students enjoy lower living costs in Ichalkaranji with the same MNC placement opportunities as Pune colleges.",
+    "human_handoff_conditions": [
+      "Caller asks for branch-specific historical placement PDFs or recruiter contact references.",
+      "Caller wants to speak directly with the Training and Placement Officer."
+    ],
+    "handoff_department": "Training & Placement Cell (Prof. G. S. Joshi)",
+    "handoff_phone": "+91 9422619947",
+    "fallback_behavior": "Quote verified institutional numbers (82.94% placed, 4.85 LPA average, 16.5 LPA highest) and offer to email the complete TPO brochure."
+  },
+  {
+    "scenario_id": "6154a966-575d-5b95-92c8-1ac12a1a9915",
+    "scenario_name": "Caller Asking for Unannounced 2025 Exact Cut-Off Dates (Unverified / Safe Fallback)",
+    "caller_type": "Student",
+    "caller_persona": "Student calling to ask the exact CAP Round 1 seat allotment date for next academic year before the CET Cell notification.",
+    "caller_query": "Can you tell me the exact date when the CAP Round 1 allotment will be declared for 2025 admissions, and will the cut-off for CSE be exactly 91.5 percentile?",
+    "detected_intent": "inquire_future_unannounced_schedule",
+    "extracted_entities": {
+      "academic_cycle": "2025-2026",
+      "query_type": "Exact future allotment date and exact future cutoff"
+    },
+    "retrieved_information": {
+      "official_status": "NOT_VERIFIED (Official notification pending from Maharashtra State CET Cell)",
+      "benchmark_data": "Last year CAP 1 allotment occurred in late July, and general cutoffs vary annually based on applicant merit list."
+    },
+    "expected_response": "The exact seat allotment dates and cutoff percentiles for the upcoming 2025 admission cycle have not been officially notified yet by the Maharashtra State CET Cell. Historically, CAP Round 1 choice filling and allotments take place in late July. Cutoffs depend dynamically on student applications each year. Please do not rely on unverified estimates. You can track official announcements on mahacet.org or contact our admissions helpline at 1800 843 1300 to receive instant alerts once the official brochure is released.",
+    "human_handoff_conditions": [
+      "Caller insists on a guaranteed cutoff promise or unverified future dates."
+    ],
+    "handoff_department": "Admissions Office",
+    "handoff_phone": "1800 843 1300",
+    "fallback_behavior": "Safely acknowledge that future dates are NOT_VERIFIED, avoid fabricating numbers, and provide the official CET Cell URL and college helpline."
+  }
+]
